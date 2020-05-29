@@ -1,0 +1,1698 @@
+{
+  "result": 0,
+  "success": true,
+  "data": {
+    "events": [],
+    "items": [
+      {
+        "id": "5e980215a09141515c6c50ac",
+        "seller_id": "5e183aa680239d00013a8159",
+        "seller_type": 1,
+        "image": "https://qimg.xiaohongshu.com/0c011ad1e6df33abaf742f5cbaa843c1e6032b93?itemId=5e980215a09141515c6c50ac&imageView2/1/w/320/h/320/q/90.jpg",
+        "title": "美国·大吸力 除螨吸尘",
+        "desc": "Shark 418直播专享 【室内除螨吸尘】W1无线手持吸尘器  ",
+        "discount_price": 799.0,
+        "stock_status": 1,
+        "link": "xhsdiscover://webview/www.xiaohongshu.com/goods/5e980215a09141515c6c50ac?isRN=true&rnName=lancer&rnPath=goods/5e980215a09141515c6c50ac&xhs_g_s=0001&country=%E7%BE%8E%E5%9B%BD&is_self_managing=false&max_height=800&new_arriving=true&sale_price=799.0&has_video=false&self_pre_cs=true&first_height=800&item_trade_mode=2&max_width=800&listing_image=https%3A%2F%2Fqimg.xiaohongshu.com%2F0c011ad1e6df33abaf742f5cbaa843c1e6032b93%3FitemId%3D5e980215a09141515c6c50ac%26imageView2%2F1%2Fw%2F320%2Fh%2F320%2Fq%2F90.jpg&feature=%E5%A4%A7%E5%90%B8%E5%8A%9B+%E9%99%A4%E8%9E%A8%E5%90%B8%E5%B0%98&has_color_variant=false&prefetch-image=https%3A%2F%2Fqimg.xiaohongshu.com%2F0c011ad1e6df33abaf742f5cbaa843c1e6032b93%3FitemId%3D5e980215a09141515c6c50ac%26imageView2%2F2%2Fw%2F800%2Fq%2F90.jpg&name=418%E7%9B%B4%E6%92%AD%E4%B8%93%E4%BA%AB+%E3%80%90%E5%AE%A4%E5%86%85%E9%99%A4%E8%9E%A8%E5%90%B8%E5%B0%98%E3%80%91W1%E6%97%A0%E7%BA%BF%E6%89%8B%E6%8C%81%E5%90%B8%E5%B0%98%E5%99%A8+++&seller_type=1&first_width=800&origin_price=null&naviHidden=yes",
+        "vendor_icon": "https://qimg.xiaohongshu.com/0fe894ab83aa2acb07e346feac3c5c98c7061556",
+        "vendor_name": "Shark品牌店",
+        "vendor_link": "https://www.xiaohongshu.com/vendor/5e183aa680239d00013a8159",
+        "buyable": true,
+        "new_arriving": true,
+        "feature": "大吸力 除螨吸尘",
+        "time": 1587020813,
+        "tax_included": true,
+        "item_price": [
+          {
+            "type": "sale_price",
+            "price": 799.0,
+            "index": 1
+          }
+        ],
+        "tags": [
+          {
+            "type": 1,
+            "name": "包邮包税",
+            "index": 1
+          }
+        ],
+        "height": 320,
+        "width": 320,
+        "stock_shortage": "",
+        "spv_id": "5e980214a09141515c6c50a7",
+        "spu_id": "5e980213bd79ba00328a9d0a",
+        "spl_id": "5e980214a09141515c6c50a6",
+        "category_ids": [
+          "55b6740de7798944b4792498",
+          "5a310df83f7d1712823b9d62",
+          "5a310df93f7d1712823b9d7b"
+        ],
+        "variants": [],
+        "on_shelf_time": 1587049613000,
+        "has_video": false,
+        "focus": false,
+        "source": 1,
+        "h_image_info": {
+          "url": "https://qimg.xiaohongshu.com/0c011ad1e6df33abaf742f5cbaa843c1e6032b93?itemId=5e980215a09141515c6c50ac&imageView2/1/w/320/h/320/q/90.jpg",
+          "width": 320,
+          "height": 320
+        },
+        "is_transfer_to_hk": false,
+        "fav_info": {
+          "show_fav": false,
+          "fav_count": 0
+        },
+        "brand": {
+          "icon": "https://ci.xiaohongshu.com/8fd452fa-4d3d-47d2-846f-2ae3f73be0d0@r_640w_640h.jpg",
+          "name": "Shark",
+          "area": "美国",
+          "ename": ""
+        },
+        "pd_name": "大吸力 除螨吸尘  · 418直播专享 【室内除螨吸尘】W1无线手持吸尘器   ",
+        "original_image_width": 800,
+        "original_image_height": 800,
+        "spu_name": "418直播专享 【室内除螨吸尘】W1无线手持吸尘器 "
+      },
+      {
+        "id": "5c7c91bba0914136c2fbd514",
+        "seller_id": "58a269e63283524c4bd0b5bc",
+        "seller_type": 0,
+        "image": "https://qimg.xiaohongshu.com/fc4c7d64d506c444541eb053e98bd83b8de7f805?itemId=5c7c91bba0914136c2fbd514&imageView2/1/w/320/h/320/q/90.jpg",
+        "transparent_image": "https://qimg.xiaohongshu.com/4ea296c0-829f-11e9-a23b-718fcd0f0878?itemId=5c7c91bba0914136c2fbd514&imageView2/1/w/320/h/320/q/90.png",
+        "title": "德国·无线吸尘车家两用",
+        "desc": "BOBBOT宝家丽 无线手持车家两用吸尘器BW818 乳白色",
+        "price": 499.0,
+        "discount_price": 319.0,
+        "stock_status": 1,
+        "link": "xhsdiscover://webview/www.xiaohongshu.com/goods/5c7c91bba0914136c2fbd514?isRN=true&rnName=lancer&rnPath=goods/5c7c91bba0914136c2fbd514&xhs_g_s=0001&country=%E5%BE%B7%E5%9B%BD&is_self_managing=false&max_height=1000&new_arriving=false&sale_price=319.0&has_video=true&self_pre_cs=true&first_height=800&item_trade_mode=2&max_width=750&listing_image=https%3A%2F%2Fqimg.xiaohongshu.com%2Ffc4c7d64d506c444541eb053e98bd83b8de7f805%3FitemId%3D5c7c91bba0914136c2fbd514%26imageView2%2F1%2Fw%2F320%2Fh%2F320%2Fq%2F90.jpg&feature=%E6%97%A0%E7%BA%BF%E5%90%B8%E5%B0%98%E8%BD%A6%E5%AE%B6%E4%B8%A4%E7%94%A8&has_color_variant=true&prefetch-image=https%3A%2F%2Fqimg.xiaohongshu.com%2Ffc4c7d64d506c444541eb053e98bd83b8de7f805%3FitemId%3D5c7c91bba0914136c2fbd514%26imageView2%2F2%2Fw%2F800%2Fq%2F90.jpg&name=%E6%97%A0%E7%BA%BF%E6%89%8B%E6%8C%81%E8%BD%A6%E5%AE%B6%E4%B8%A4%E7%94%A8%E5%90%B8%E5%B0%98%E5%99%A8BW818++%E4%B9%B3%E7%99%BD%E8%89%B2&seller_type=0&first_width=800&origin_price=499.0&naviHidden=yes",
+        "promotion_text": "限时购",
+        "promotion_type": 11,
+        "vendor_icon": "http://qimg.xiaohongshu.com/seller/0cdfc33ed1263e5a856a78d85e3b9036",
+        "vendor_name": "宝家丽旗舰店",
+        "vendor_link": "https://www.xiaohongshu.com/vendor/58a269e63283524c4bd0b5bc",
+        "buyable": true,
+        "new_arriving": false,
+        "feature": "无线吸尘车家两用",
+        "time": 1551667996,
+        "tax_included": true,
+        "item_price": [
+          {
+            "type": "sale_price",
+            "price": 319.0,
+            "index": 1
+          },
+          {
+            "type": "origin_price",
+            "price": 499.0,
+            "index": 3
+          }
+        ],
+        "tags": [
+          {
+            "type": 1,
+            "name": "限时购",
+            "index": 1
+          },
+          {
+            "type": 1,
+            "name": "包邮包税",
+            "index": 2
+          }
+        ],
+        "height": 320,
+        "width": 320,
+        "stock_shortage": "",
+        "spv_id": "5c7c91baa0914136c2fbd510",
+        "spu_id": "5c7c91b970e7520ebf34e5c9",
+        "spl_id": "5c7c91baa0914136c2fbd50f",
+        "category_ids": [
+          "55b6740de7798944b4792498",
+          "5a310df83f7d1712823b9d62",
+          "5a310df93f7d1712823b9d7b"
+        ],
+        "variants": [
+          {
+            "id": "5a60c43169bd891ed8939f93",
+            "name": "颜色",
+            "value": "乳白色"
+          }
+        ],
+        "on_shelf_time": 1551696796000,
+        "has_video": false,
+        "focus": false,
+        "source": 1,
+        "h_image_info": {
+          "url": "https://qimg.xiaohongshu.com/fc4c7d64d506c444541eb053e98bd83b8de7f805?itemId=5c7c91bba0914136c2fbd514&imageView2/1/w/320/h/320/q/90.jpg",
+          "width": 320,
+          "height": 320
+        },
+        "is_transfer_to_hk": false,
+        "fav_info": {
+          "show_fav": true,
+          "fav_count": 5160
+        },
+        "brand": {
+          "icon": "https://ci.xiaohongshu.com/6d2edd3f-1cd4-4bfa-82b8-a7662184fbfb@r_640w_640h.jpg",
+          "name": "宝家丽",
+          "area": "德国",
+          "ename": "BOBBOT"
+        },
+        "pd_name": "无线吸尘车家两用  · 无线手持车家两用吸尘器BW818  乳白色",
+        "original_image_width": 800,
+        "original_image_height": 800,
+        "spu_name": "无线手持车家两用吸尘器BW818"
+      },
+      {
+        "id": "5e3bb1c2c8feaa0038c867d7",
+        "seller_id": "5e056d0c80239d00013a7f5d",
+        "seller_type": 103,
+        "image": "https://qimg.xiaohongshu.com/ac4db568eea8701cdf02932a24060c8fba20c28e?itemId=5e3bb1c2c8feaa0038c867d7&imageView2/1/w/320/h/320/q/90.jpg",
+        "title": "英国·顶配系列带6吸头",
+        "desc": "dyson戴森 优惠精选 V8 Absolute 无线吸尘器 顶配6吸头 美版 黄色",
+        "price": 2699.0,
+        "discount_price": 2599.0,
+        "stock_status": 1,
+        "link": "xhsdiscover://webview/www.xiaohongshu.com/goods/5e3bb1c2c8feaa0038c867d7?isRN=true&rnName=lancer&rnPath=goods/5e3bb1c2c8feaa0038c867d7&xhs_g_s=0001&country=%E8%8B%B1%E5%9B%BD&is_self_managing=false&max_height=800&new_arriving=false&sale_price=2599.0&has_video=false&self_pre_cs=true&first_height=800&item_trade_mode=1&max_width=800&listing_image=https%3A%2F%2Fqimg.xiaohongshu.com%2Fac4db568eea8701cdf02932a24060c8fba20c28e%3FitemId%3D5e3bb1c2c8feaa0038c867d7%26imageView2%2F1%2Fw%2F320%2Fh%2F320%2Fq%2F90.jpg&feature=%E9%A1%B6%E9%85%8D%E7%B3%BB%E5%88%97%E5%B8%A66%E5%90%B8%E5%A4%B4&has_color_variant=true&prefetch-image=https%3A%2F%2Fqimg.xiaohongshu.com%2Fac4db568eea8701cdf02932a24060c8fba20c28e%3FitemId%3D5e3bb1c2c8feaa0038c867d7%26imageView2%2F2%2Fw%2F800%2Fq%2F90.jpg&name=%E4%BC%98%E6%83%A0%E7%B2%BE%E9%80%89+V8+Absolute+%E6%97%A0%E7%BA%BF%E5%90%B8%E5%B0%98%E5%99%A8+%E9%A1%B6%E9%85%8D6%E5%90%B8%E5%A4%B4+%E7%BE%8E%E7%89%88++%E9%BB%84%E8%89%B2&seller_type=103&first_width=800&origin_price=2699.0&naviHidden=yes",
+        "promotion_text": "单品特价",
+        "promotion_type": 4,
+        "vendor_icon": "https://ci.xiaohongshu.com/c94ca4d9160c3f4af09ffc900c49dc7efcaebd3a",
+        "vendor_name": "SCI海外旗舰店",
+        "vendor_link": "https://www.xiaohongshu.com/vendor/5e056d0c80239d00013a7f5d",
+        "buyable": true,
+        "new_arriving": false,
+        "feature": "顶配系列带6吸头",
+        "time": 1580981927,
+        "tax_included": true,
+        "item_price": [
+          {
+            "type": "sale_price",
+            "price": 2599.0,
+            "index": 1
+          },
+          {
+            "type": "origin_price",
+            "price": 2699.0,
+            "index": 3
+          }
+        ],
+        "tags": [
+          {
+            "type": 1,
+            "name": "包邮包税",
+            "index": 1
+          }
+        ],
+        "height": 320,
+        "width": 320,
+        "stock_shortage": "",
+        "spv_id": "5e52a916a091417409e30990",
+        "spu_id": "5e52a916a091417409e30989",
+        "spl_id": "5e52a916a091417409e3098c",
+        "category_ids": [
+          "55b6740de7798944b4792498",
+          "5a310df83f7d1712823b9d62",
+          "5a310df93f7d1712823b9d7b"
+        ],
+        "variants": [
+          {
+            "id": "5a60c43169bd891ed8939f93",
+            "name": "颜色",
+            "value": "黄色"
+          }
+        ],
+        "on_shelf_time": 1520528239000,
+        "has_video": false,
+        "focus": false,
+        "source": 1,
+        "h_image_info": {
+          "url": "https://qimg.xiaohongshu.com/ac4db568eea8701cdf02932a24060c8fba20c28e?itemId=5e3bb1c2c8feaa0038c867d7&imageView2/1/w/320/h/320/q/90.jpg",
+          "width": 320,
+          "height": 320
+        },
+        "is_transfer_to_hk": false,
+        "fav_info": {
+          "show_fav": true,
+          "fav_count": 3255
+        },
+        "brand": {
+          "icon": "https://ci.xiaohongshu.com/848b337f-d5ab-4b22-9735-3f5b9ab3a396@r_640w_640h.jpg",
+          "name": "戴森",
+          "area": "英国",
+          "ename": "dyson"
+        },
+        "pd_name": "顶配系列带6吸头  · 优惠精选 V8 Absolute 无线吸尘器 顶配6吸头 美版  黄色",
+        "original_image_width": 800,
+        "original_image_height": 800,
+        "spu_name": "优惠精选 V8 Absolute 无线吸尘器 顶配6吸头 美版"
+      },
+      {
+        "id": "5e3ba30db5dcd4002f555895",
+        "seller_id": "5e056d0c80239d00013a7f5d",
+        "seller_type": 103,
+        "image": "https://qimg.xiaohongshu.com/fe1202eef5527bdeb5b4153afa1824ba6ac79f9f?itemId=5e3ba30db5dcd4002f555895&imageView2/1/w/320/h/320/q/90.jpg",
+        "title": "英国·顶配系列带6吸头",
+        "desc": "dyson戴森  V10 Absolute无线吸尘器 顶配六吸头 美版 ",
+        "price": 3599.0,
+        "discount_price": 3399.0,
+        "stock_status": 1,
+        "link": "xhsdiscover://webview/www.xiaohongshu.com/goods/5e3ba30db5dcd4002f555895?isRN=true&rnName=lancer&rnPath=goods/5e3ba30db5dcd4002f555895&xhs_g_s=0001&country=%E8%8B%B1%E5%9B%BD&is_self_managing=false&max_height=800&new_arriving=false&sale_price=3399.0&has_video=false&self_pre_cs=true&first_height=800&item_trade_mode=1&max_width=800&listing_image=https%3A%2F%2Fqimg.xiaohongshu.com%2Ffe1202eef5527bdeb5b4153afa1824ba6ac79f9f%3FitemId%3D5e3ba30db5dcd4002f555895%26imageView2%2F1%2Fw%2F320%2Fh%2F320%2Fq%2F90.jpg&feature=%E9%A1%B6%E9%85%8D%E7%B3%BB%E5%88%97%E5%B8%A66%E5%90%B8%E5%A4%B4&has_color_variant=false&prefetch-image=https%3A%2F%2Fqimg.xiaohongshu.com%2Ffe1202eef5527bdeb5b4153afa1824ba6ac79f9f%3FitemId%3D5e3ba30db5dcd4002f555895%26imageView2%2F2%2Fw%2F800%2Fq%2F90.jpg&name=+V10+Absolute%E6%97%A0%E7%BA%BF%E5%90%B8%E5%B0%98%E5%99%A8+%E9%A1%B6%E9%85%8D%E5%85%AD%E5%90%B8%E5%A4%B4+%E7%BE%8E%E7%89%88++&seller_type=103&first_width=800&origin_price=3599.0&naviHidden=yes",
+        "promotion_text": "单品特价",
+        "promotion_type": 4,
+        "vendor_icon": "https://ci.xiaohongshu.com/c94ca4d9160c3f4af09ffc900c49dc7efcaebd3a",
+        "vendor_name": "SCI海外旗舰店",
+        "vendor_link": "https://www.xiaohongshu.com/vendor/5e056d0c80239d00013a7f5d",
+        "buyable": true,
+        "new_arriving": false,
+        "feature": "顶配系列带6吸头",
+        "time": 1580966739,
+        "tax_included": true,
+        "item_price": [
+          {
+            "type": "sale_price",
+            "price": 3399.0,
+            "index": 1
+          },
+          {
+            "type": "origin_price",
+            "price": 3599.0,
+            "index": 3
+          }
+        ],
+        "tags": [
+          {
+            "type": 1,
+            "name": "包邮包税",
+            "index": 1
+          }
+        ],
+        "height": 320,
+        "width": 320,
+        "stock_shortage": "",
+        "spv_id": "5e52aa8da091417431e32db2",
+        "spu_id": "5e52aa8da091417431e32db0",
+        "spl_id": "5e52aa8da091417431e32db1",
+        "category_ids": [
+          "55b6740de7798944b4792498",
+          "5a310df83f7d1712823b9d62",
+          "5a310df93f7d1712823b9d7b"
+        ],
+        "variants": [],
+        "on_shelf_time": 1569429465000,
+        "has_video": false,
+        "focus": false,
+        "source": 1,
+        "h_image_info": {
+          "url": "https://qimg.xiaohongshu.com/fe1202eef5527bdeb5b4153afa1824ba6ac79f9f?itemId=5e3ba30db5dcd4002f555895&imageView2/1/w/320/h/320/q/90.jpg",
+          "width": 320,
+          "height": 320
+        },
+        "is_transfer_to_hk": false,
+        "fav_info": {
+          "show_fav": false,
+          "fav_count": 1
+        },
+        "brand": {
+          "icon": "https://ci.xiaohongshu.com/848b337f-d5ab-4b22-9735-3f5b9ab3a396@r_640w_640h.jpg",
+          "name": "戴森",
+          "area": "英国",
+          "ename": "dyson"
+        },
+        "pd_name": "顶配系列带6吸头  ·  V10 Absolute无线吸尘器 顶配六吸头 美版  ",
+        "original_image_width": 800,
+        "original_image_height": 800,
+        "spu_name": " V10 Absolute无线吸尘器 顶配六吸头 美版"
+      },
+      {
+        "id": "5e86e21281d4c17dd1803207",
+        "seller_id": "5e38f7d865aece0001fc5b67",
+        "seller_type": 103,
+        "image": "https://qimg.xiaohongshu.com/6be3ad6c1adbe342a2e3551fb5bb9ec7644a0241?itemId=5e86e21281d4c17dd1803207&imageView2/1/w/320/h/320/q/90.jpg",
+        "transparent_image": "https://qimg.xiaohongshu.com/5aeb48b76fb27785ddcba4eb5b71e113b042fdb0?itemId=5e86e21281d4c17dd1803207&imageView2/1/w/320/h/320/q/90.png",
+        "title": "中国·手推式扫地机吸尘",
+        "desc": "bowAI 手推式扫地机吸尘器 白色",
+        "price": 1139.0,
+        "discount_price": 399.0,
+        "stock_status": 1,
+        "link": "xhsdiscover://webview/www.xiaohongshu.com/goods/5e86e21281d4c17dd1803207?isRN=true&rnName=lancer&rnPath=goods/5e86e21281d4c17dd1803207&xhs_g_s=0001&country=%E4%B8%AD%E5%9B%BD&is_self_managing=false&max_height=800&new_arriving=true&sale_price=399.0&has_video=false&self_pre_cs=true&first_height=800&item_trade_mode=2&max_width=800&listing_image=https%3A%2F%2Fqimg.xiaohongshu.com%2F6be3ad6c1adbe342a2e3551fb5bb9ec7644a0241%3FitemId%3D5e86e21281d4c17dd1803207%26imageView2%2F1%2Fw%2F320%2Fh%2F320%2Fq%2F90.jpg&feature=%E6%89%8B%E6%8E%A8%E5%BC%8F%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%90%B8%E5%B0%98&has_color_variant=true&prefetch-image=https%3A%2F%2Fqimg.xiaohongshu.com%2F6be3ad6c1adbe342a2e3551fb5bb9ec7644a0241%3FitemId%3D5e86e21281d4c17dd1803207%26imageView2%2F2%2Fw%2F800%2Fq%2F90.jpg&name=%E6%89%8B%E6%8E%A8%E5%BC%8F%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%90%B8%E5%B0%98%E5%99%A8++%E7%99%BD%E8%89%B2&seller_type=103&first_width=800&origin_price=1139.0&naviHidden=yes",
+        "promotion_text": "单品特价",
+        "promotion_type": 4,
+        "vendor_icon": "http://qimg.xiaohongshu.com/seller/620c483dce060e75da737f0f538ed4bf",
+        "vendor_name": "天麒电器旗舰店",
+        "vendor_link": "https://www.xiaohongshu.com/vendor/5e38f7d865aece0001fc5b67",
+        "buyable": true,
+        "new_arriving": true,
+        "feature": "手推式扫地机吸尘",
+        "time": 1585898080,
+        "tax_included": true,
+        "item_price": [
+          {
+            "type": "sale_price",
+            "price": 399.0,
+            "index": 1
+          },
+          {
+            "type": "origin_price",
+            "price": 1139.0,
+            "index": 3
+          }
+        ],
+        "tags": [
+          {
+            "type": 1,
+            "name": "60元券",
+            "index": 1
+          },
+          {
+            "type": 1,
+            "name": "包邮包税",
+            "index": 2
+          }
+        ],
+        "height": 320,
+        "width": 320,
+        "stock_shortage": "",
+        "spv_id": "5e86e21281d4c17dd1803202",
+        "spu_id": "5e86e1b2b2b954005b333fba",
+        "spl_id": "5e86e1b40cf9a11e447d5842",
+        "category_ids": [
+          "55b6740de7798944b4792498",
+          "5a310df83f7d1712823b9d62",
+          "5a310df93f7d1712823b9d7b"
+        ],
+        "variants": [
+          {
+            "id": "5a60c43169bd891ed8939f93",
+            "name": "颜色",
+            "value": "白色"
+          }
+        ],
+        "on_shelf_time": 1585926880000,
+        "has_video": false,
+        "focus": false,
+        "source": 1,
+        "h_image_info": {
+          "url": "https://qimg.xiaohongshu.com/6be3ad6c1adbe342a2e3551fb5bb9ec7644a0241?itemId=5e86e21281d4c17dd1803207&imageView2/1/w/320/h/320/q/90.jpg",
+          "width": 320,
+          "height": 320
+        },
+        "is_transfer_to_hk": false,
+        "fav_info": {
+          "show_fav": false,
+          "fav_count": 0
+        },
+        "brand": {
+          "name": "bowAI",
+          "area": "中国",
+          "ename": ""
+        },
+        "pd_name": "手推式扫地机吸尘  · 手推式扫地机吸尘器  白色",
+        "original_image_width": 800,
+        "original_image_height": 800,
+        "spu_name": "手推式扫地机吸尘器"
+      },
+      {
+        "id": "599e4fa470e7524b7e387e96",
+        "seller_id": "599d6bb475e4f065ed374167",
+        "seller_type": 101,
+        "image": "https://qimg.xiaohongshu.com/e11ed3bd-24ad-4e6e-8c5a-2020a8f00ca9?itemId=599e4fa470e7524b7e387e96&imageView2/1/w/320/h/320/q/90.jpg",
+        "transparent_image": "https://qimg.xiaohongshu.com/19239a5c-9068-4c83-ae1d-0383e1a13063?itemId=599e4fa470e7524b7e387e96&imageView2/1/w/320/h/320/q/90.png",
+        "title": "中国·除尘净螨轻便两用",
+        "desc": "德尔玛DEERMA 多功能大吸力手持推杆式除螨仪吸尘器 家居好物 DX700 白色",
+        "price": 1998.0,
+        "discount_price": 159.0,
+        "stock_status": 1,
+        "link": "xhsdiscover://webview/www.xiaohongshu.com/goods/599e4fa470e7524b7e387e96?isRN=true&rnName=lancer&rnPath=goods/599e4fa470e7524b7e387e96&xhs_g_s=0001&country=%E4%B8%AD%E5%9B%BD&is_self_managing=false&max_height=800&new_arriving=false&sale_price=159.0&has_video=false&self_pre_cs=true&first_height=800&item_trade_mode=2&max_width=800&listing_image=https%3A%2F%2Fqimg.xiaohongshu.com%2Fe11ed3bd-24ad-4e6e-8c5a-2020a8f00ca9%3FitemId%3D599e4fa470e7524b7e387e96%26imageView2%2F1%2Fw%2F320%2Fh%2F320%2Fq%2F90.jpg&feature=%E9%99%A4%E5%B0%98%E5%87%80%E8%9E%A8%E8%BD%BB%E4%BE%BF%E4%B8%A4%E7%94%A8&has_color_variant=true&prefetch-image=https%3A%2F%2Fqimg.xiaohongshu.com%2Fe11ed3bd-24ad-4e6e-8c5a-2020a8f00ca9%3FitemId%3D599e4fa470e7524b7e387e96%26imageView2%2F2%2Fw%2F800%2Fq%2F90.jpg&name=%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%A4%A7%E5%90%B8%E5%8A%9B%E6%89%8B%E6%8C%81%E6%8E%A8%E6%9D%86%E5%BC%8F%E9%99%A4%E8%9E%A8%E4%BB%AA%E5%90%B8%E5%B0%98%E5%99%A8+%E5%AE%B6%E5%B1%85%E5%A5%BD%E7%89%A9++DX700+%E7%99%BD%E8%89%B2&seller_type=101&first_width=800&origin_price=1998.0&naviHidden=yes",
+        "promotion_text": "限时购",
+        "promotion_type": 11,
+        "vendor_icon": "http://qimg.xiaohongshu.com/seller/46404d1758f007e0357e5ef30b2fac5a",
+        "vendor_name": "DEERMA德尔玛官方旗舰店",
+        "vendor_link": "https://www.xiaohongshu.com/vendor/599d6bb475e4f065ed374167",
+        "buyable": true,
+        "new_arriving": false,
+        "feature": "除尘净螨轻便两用",
+        "time": 1503995607,
+        "tax_included": true,
+        "item_price": [
+          {
+            "type": "sale_price",
+            "price": 159.0,
+            "index": 1
+          },
+          {
+            "type": "origin_price",
+            "price": 1998.0,
+            "index": 3
+          }
+        ],
+        "tags": [
+          {
+            "type": 2,
+            "name": "官方旗舰店",
+            "index": 1
+          },
+          {
+            "type": 1,
+            "name": "限时购",
+            "index": 2
+          },
+          {
+            "type": 1,
+            "name": "包邮包税",
+            "index": 3
+          }
+        ],
+        "height": 320,
+        "width": 320,
+        "stock_shortage": "",
+        "spv_id": "5e52aaa1a0914173e5e332d2",
+        "spu_id": "59254922c9d7592dba62e482",
+        "spl_id": "5e52aaa1a0914173e5e332d0",
+        "category_ids": [
+          "55b6740de7798944b4792498",
+          "5a310df83f7d1712823b9d62",
+          "5a310df93f7d1712823b9d7b"
+        ],
+        "variants": [
+          {
+            "id": "5a60c42f69bd891ed8939bc2",
+            "name": "款式",
+            "value": "DX700"
+          },
+          {
+            "id": "5a60c43169bd891ed8939f93",
+            "name": "颜色",
+            "value": "白色"
+          }
+        ],
+        "on_shelf_time": 1502270328000,
+        "has_video": false,
+        "focus": false,
+        "source": 1,
+        "h_image_info": {
+          "url": "https://qimg.xiaohongshu.com/e11ed3bd-24ad-4e6e-8c5a-2020a8f00ca9?itemId=599e4fa470e7524b7e387e96&imageView2/1/w/320/h/320/q/90.jpg",
+          "width": 320,
+          "height": 320
+        },
+        "is_transfer_to_hk": false,
+        "fav_info": {
+          "show_fav": false,
+          "fav_count": 4
+        },
+        "brand": {
+          "name": "DEERMA",
+          "area": "中国",
+          "ename": "德尔玛"
+        },
+        "pd_name": "除尘净螨轻便两用  · 多功能大吸力手持推杆式除螨仪吸尘器 家居好物  DX700 白色",
+        "original_image_width": 800,
+        "original_image_height": 800,
+        "spu_name": "多功能大吸力手持推杆式除螨仪吸尘器 家居好物"
+      },
+      {
+        "id": "5d23005ea61b59200a1d61d4",
+        "seller_id": "5c82094b77e308490993fa9b",
+        "seller_type": 0,
+        "image": "https://qimg.xiaohongshu.com/39bdfa06c9cb35f4150161b206437401b2fb53bd?itemId=5d23005ea61b59200a1d61d4&imageView2/1/w/320/h/320/q/90.jpg",
+        "transparent_image": "https://qimg.xiaohongshu.com/4bfccd00-a15d-11e9-b562-238c1f5cc247-y25ogb?itemId=5d23005ea61b59200a1d61d4&imageView2/1/w/320/h/320/q/90.png",
+        "title": "英国·无线手持臭氧净化",
+        "desc": "morphy richards摩飞 便捷吸尘器MR3936 臭氧杀菌消毒 铁灰色",
+        "price": 899.0,
+        "discount_price": 328.0,
+        "stock_status": 1,
+        "link": "xhsdiscover://webview/www.xiaohongshu.com/goods/5d23005ea61b59200a1d61d4?isRN=true&rnName=lancer&rnPath=goods/5d23005ea61b59200a1d61d4&xhs_g_s=0001&country=%E8%8B%B1%E5%9B%BD&is_self_managing=false&max_height=800&new_arriving=false&sale_price=328.0&has_video=false&self_pre_cs=true&first_height=800&item_trade_mode=2&max_width=800&listing_image=https%3A%2F%2Fqimg.xiaohongshu.com%2F39bdfa06c9cb35f4150161b206437401b2fb53bd%3FitemId%3D5d23005ea61b59200a1d61d4%26imageView2%2F1%2Fw%2F320%2Fh%2F320%2Fq%2F90.jpg&feature=%E6%97%A0%E7%BA%BF%E6%89%8B%E6%8C%81%E8%87%AD%E6%B0%A7%E5%87%80%E5%8C%96&has_color_variant=true&prefetch-image=https%3A%2F%2Fqimg.xiaohongshu.com%2F39bdfa06c9cb35f4150161b206437401b2fb53bd%3FitemId%3D5d23005ea61b59200a1d61d4%26imageView2%2F2%2Fw%2F800%2Fq%2F90.jpg&name=%E4%BE%BF%E6%8D%B7%E5%90%B8%E5%B0%98%E5%99%A8MR3936+%E8%87%AD%E6%B0%A7%E6%9D%80%E8%8F%8C%E6%B6%88%E6%AF%92++%E9%93%81%E7%81%B0%E8%89%B2&seller_type=0&first_width=800&origin_price=899.0&naviHidden=yes",
+        "vendor_icon": "http://qimg.xiaohongshu.com/seller/f35dd4a24286f3986ad25b5656464811",
+        "vendor_name": "摩飞电器旗舰店",
+        "vendor_link": "https://www.xiaohongshu.com/vendor/5c82094b77e308490993fa9b",
+        "buyable": true,
+        "new_arriving": false,
+        "feature": "无线手持臭氧净化",
+        "time": 1562575409,
+        "tax_included": true,
+        "item_price": [
+          {
+            "type": "sale_price",
+            "price": 328.0,
+            "index": 1
+          },
+          {
+            "type": "origin_price",
+            "price": 899.0,
+            "index": 3
+          }
+        ],
+        "tags": [
+          {
+            "type": 1,
+            "name": "包邮包税",
+            "index": 1
+          }
+        ],
+        "height": 320,
+        "width": 320,
+        "stock_shortage": "",
+        "spv_id": "5e52a986a091417431e312d7",
+        "spu_id": "5e52a986a091417431e312d4",
+        "spl_id": "5e52a986a091417431e312d5",
+        "category_ids": [
+          "55b6740de7798944b4792498",
+          "5a310df83f7d1712823b9d62",
+          "5a310df93f7d1712823b9d7b"
+        ],
+        "variants": [
+          {
+            "id": "5a60c43169bd891ed8939f93",
+            "name": "颜色",
+            "value": "铁灰色"
+          }
+        ],
+        "on_shelf_time": 1562341780000,
+        "has_video": false,
+        "focus": false,
+        "source": 1,
+        "h_image_info": {
+          "url": "https://qimg.xiaohongshu.com/39bdfa06c9cb35f4150161b206437401b2fb53bd?itemId=5d23005ea61b59200a1d61d4&imageView2/1/w/320/h/320/q/90.jpg",
+          "width": 320,
+          "height": 320
+        },
+        "is_transfer_to_hk": false,
+        "fav_info": {
+          "show_fav": false,
+          "fav_count": 11
+        },
+        "brand": {
+          "icon": "https://ci.xiaohongshu.com/848b337f-d5ab-4b22-9735-3f5b9ab3a396@r_640w_640h.jpg",
+          "name": "摩飞",
+          "area": "英国",
+          "ename": "morphy richards"
+        },
+        "pd_name": "无线手持臭氧净化  · 便捷吸尘器MR3936 臭氧杀菌消毒  铁灰色",
+        "original_image_width": 800,
+        "original_image_height": 800,
+        "spu_name": "便捷吸尘器MR3936 臭氧杀菌消毒"
+      },
+      {
+        "id": "5e7ad8e781d4c121ee800463",
+        "seller_id": "58a12bc7a8e2911357e47856",
+        "seller_type": 101,
+        "image": "https://qimg.xiaohongshu.com/84e217bf0e1d8b2a01fe73d8abe1ce8a31bc1c35?itemId=5e7ad8e781d4c121ee800463&imageView2/1/w/320/h/320/q/90.jpg",
+        "title": "英国·全新全能吸尘器",
+        "desc": "dyson戴森 V11 Absolute Extra 全新全能无绳吸尘器 家用清洁整屋 ",
+        "discount_price": 5490.0,
+        "stock_status": 1,
+        "link": "xhsdiscover://webview/www.xiaohongshu.com/goods/5e7ad8e781d4c121ee800463?isRN=true&rnName=lancer&rnPath=goods/5e7ad8e781d4c121ee800463&xhs_g_s=0001&country=%E8%8B%B1%E5%9B%BD&is_self_managing=false&max_height=800&new_arriving=true&sale_price=5490.0&has_video=true&self_pre_cs=true&first_height=800&item_trade_mode=2&max_width=800&listing_image=https%3A%2F%2Fqimg.xiaohongshu.com%2F84e217bf0e1d8b2a01fe73d8abe1ce8a31bc1c35%3FitemId%3D5e7ad8e781d4c121ee800463%26imageView2%2F1%2Fw%2F320%2Fh%2F320%2Fq%2F90.jpg&feature=%E5%85%A8%E6%96%B0%E5%85%A8%E8%83%BD%E5%90%B8%E5%B0%98%E5%99%A8&has_color_variant=false&prefetch-image=https%3A%2F%2Fqimg.xiaohongshu.com%2F84e217bf0e1d8b2a01fe73d8abe1ce8a31bc1c35%3FitemId%3D5e7ad8e781d4c121ee800463%26imageView2%2F2%2Fw%2F800%2Fq%2F90.jpg&name=V11+Absolute+Extra+%E5%85%A8%E6%96%B0%E5%85%A8%E8%83%BD%E6%97%A0%E7%BB%B3%E5%90%B8%E5%B0%98%E5%99%A8+%E5%AE%B6%E7%94%A8%E6%B8%85%E6%B4%81%E6%95%B4%E5%B1%8B++&seller_type=101&first_width=800&origin_price=null&naviHidden=yes",
+        "vendor_icon": "http://qimg.xiaohongshu.com/seller/6a2ea7419aa9bbbac6305b3cdd26873d",
+        "vendor_name": "Dyson戴森官方旗舰店",
+        "vendor_link": "https://www.xiaohongshu.com/vendor/58a12bc7a8e2911357e47856",
+        "buyable": true,
+        "new_arriving": true,
+        "feature": "全新全能吸尘器",
+        "time": 1585117005,
+        "tax_included": true,
+        "item_price": [
+          {
+            "type": "sale_price",
+            "price": 5490.0,
+            "index": 1
+          }
+        ],
+        "tags": [
+          {
+            "type": 2,
+            "name": "官方旗舰店",
+            "index": 1
+          },
+          {
+            "type": 1,
+            "name": "包邮包税",
+            "index": 2
+          }
+        ],
+        "height": 320,
+        "width": 320,
+        "stock_shortage": "",
+        "spv_id": "5e7ad8e781d4c121ee80045e",
+        "spu_id": "5e7ad8e5aeb9350035888063",
+        "spl_id": "5e7ad8e681d4c121ee80045d",
+        "category_ids": [
+          "55b6740de7798944b4792498",
+          "5a310df83f7d1712823b9d62",
+          "5a310df93f7d1712823b9d7b"
+        ],
+        "variants": [],
+        "on_shelf_time": 1585699495000,
+        "has_video": false,
+        "focus": false,
+        "source": 1,
+        "h_image_info": {
+          "url": "https://qimg.xiaohongshu.com/84e217bf0e1d8b2a01fe73d8abe1ce8a31bc1c35?itemId=5e7ad8e781d4c121ee800463&imageView2/1/w/320/h/320/q/90.jpg",
+          "width": 320,
+          "height": 320
+        },
+        "is_transfer_to_hk": false,
+        "fav_info": {
+          "show_fav": false,
+          "fav_count": 0
+        },
+        "brand": {
+          "icon": "https://ci.xiaohongshu.com/848b337f-d5ab-4b22-9735-3f5b9ab3a396@r_640w_640h.jpg",
+          "name": "戴森",
+          "area": "英国",
+          "ename": "dyson"
+        },
+        "pd_name": "全新全能吸尘器  · V11 Absolute Extra 全新全能无绳吸尘器 家用清洁整屋  ",
+        "original_image_width": 800,
+        "original_image_height": 800,
+        "spu_name": "V11 Absolute Extra 全新全能无绳吸尘器 家用清洁整屋"
+      },
+      {
+        "id": "5e0330b181d4c10c2ecd3851",
+        "seller_id": "58a12bc7a8e2911357e47856",
+        "seller_type": 101,
+        "image": "https://qimg.xiaohongshu.com/0ffe19b756b88baa2b52871f47f4d7608c3e180c?itemId=5e0330b181d4c10c2ecd3851&imageView2/1/w/320/h/320/q/90.jpg",
+        "title": "英国·轻便强劲亚洲限定",
+        "desc": "dyson戴森 V8 Slim 小型家用手持无线吸尘器 高效轻便  ",
+        "discount_price": 3290.0,
+        "stock_status": 1,
+        "link": "xhsdiscover://webview/www.xiaohongshu.com/goods/5e0330b181d4c10c2ecd3851?isRN=true&rnName=lancer&rnPath=goods/5e0330b181d4c10c2ecd3851&xhs_g_s=0001&country=%E8%8B%B1%E5%9B%BD&is_self_managing=false&max_height=800&new_arriving=true&sale_price=3290.0&has_video=false&self_pre_cs=true&first_height=800&item_trade_mode=2&max_width=800&listing_image=https%3A%2F%2Fqimg.xiaohongshu.com%2F0ffe19b756b88baa2b52871f47f4d7608c3e180c%3FitemId%3D5e0330b181d4c10c2ecd3851%26imageView2%2F1%2Fw%2F320%2Fh%2F320%2Fq%2F90.jpg&feature=%E8%BD%BB%E4%BE%BF%E5%BC%BA%E5%8A%B2%E4%BA%9A%E6%B4%B2%E9%99%90%E5%AE%9A&has_color_variant=false&prefetch-image=https%3A%2F%2Fqimg.xiaohongshu.com%2F0ffe19b756b88baa2b52871f47f4d7608c3e180c%3FitemId%3D5e0330b181d4c10c2ecd3851%26imageView2%2F2%2Fw%2F800%2Fq%2F90.jpg&name=V8+Slim+%E5%B0%8F%E5%9E%8B%E5%AE%B6%E7%94%A8%E6%89%8B%E6%8C%81%E6%97%A0%E7%BA%BF%E5%90%B8%E5%B0%98%E5%99%A8+%E9%AB%98%E6%95%88%E8%BD%BB%E4%BE%BF+++&seller_type=101&first_width=800&origin_price=null&naviHidden=yes",
+        "vendor_icon": "http://qimg.xiaohongshu.com/seller/6a2ea7419aa9bbbac6305b3cdd26873d",
+        "vendor_name": "Dyson戴森官方旗舰店",
+        "vendor_link": "https://www.xiaohongshu.com/vendor/58a12bc7a8e2911357e47856",
+        "buyable": true,
+        "new_arriving": true,
+        "feature": "轻便强劲亚洲限定",
+        "time": 1577267543,
+        "tax_included": true,
+        "item_price": [
+          {
+            "type": "sale_price",
+            "price": 3290.0,
+            "index": 1
+          }
+        ],
+        "tags": [
+          {
+            "type": 2,
+            "name": "官方旗舰店",
+            "index": 1
+          },
+          {
+            "type": 1,
+            "name": "包邮包税",
+            "index": 2
+          }
+        ],
+        "height": 320,
+        "width": 320,
+        "stock_shortage": "",
+        "spv_id": "5e0330b181d4c10c2ecd384c",
+        "spu_id": "5e0330b0281a2400296b209f",
+        "spl_id": "5e0330b181d4c10c2ecd384b",
+        "category_ids": [
+          "55b6740de7798944b4792498",
+          "5a310df83f7d1712823b9d62",
+          "5a310df93f7d1712823b9d7b"
+        ],
+        "variants": [],
+        "on_shelf_time": 1577750659000,
+        "has_video": false,
+        "focus": false,
+        "source": 1,
+        "h_image_info": {
+          "url": "https://qimg.xiaohongshu.com/0ffe19b756b88baa2b52871f47f4d7608c3e180c?itemId=5e0330b181d4c10c2ecd3851&imageView2/1/w/320/h/320/q/90.jpg",
+          "width": 320,
+          "height": 320
+        },
+        "is_transfer_to_hk": false,
+        "fav_info": {
+          "show_fav": true,
+          "fav_count": 448
+        },
+        "brand": {
+          "icon": "https://ci.xiaohongshu.com/848b337f-d5ab-4b22-9735-3f5b9ab3a396@r_640w_640h.jpg",
+          "name": "戴森",
+          "area": "英国",
+          "ename": "dyson"
+        },
+        "pd_name": "轻便强劲亚洲限定  · V8 Slim 小型家用手持无线吸尘器 高效轻便   ",
+        "original_image_width": 800,
+        "original_image_height": 800,
+        "spu_name": "V8 Slim 小型家用手持无线吸尘器 高效轻便 "
+      },
+      {
+        "id": "5d96f17e81d4c151c2f1cc10",
+        "seller_id": "580f19028e307f5aeb085298",
+        "seller_type": 0,
+        "image": "https://qimg.xiaohongshu.com/a0881772f129087acbd7069f89593faed9c4a7c9?itemId=5d96f17e81d4c151c2f1cc10&imageView2/1/w/320/h/320/q/90.jpg",
+        "transparent_image": "https://qimg.xiaohongshu.com/5149fd71d61b221f466643ac0241c07df152eb72?itemId=5d96f17e81d4c151c2f1cc10&imageView2/1/w/320/h/320/q/90.png",
+        "title": "中国·无线吸尘长续航",
+        "desc": "Bear小熊 家用小型大吸力超静音强力除螨吸猫狗毛手持无线吸尘器 多刷头",
+        "price": 799.0,
+        "discount_price": 299.0,
+        "stock_status": 1,
+        "link": "xhsdiscover://webview/www.xiaohongshu.com/goods/5d96f17e81d4c151c2f1cc10?isRN=true&rnName=lancer&rnPath=goods/5d96f17e81d4c151c2f1cc10&xhs_g_s=0001&country=%E4%B8%AD%E5%9B%BD&is_self_managing=false&max_height=1000&new_arriving=false&sale_price=299.0&has_video=false&self_pre_cs=true&first_height=800&item_trade_mode=2&max_width=750&listing_image=https%3A%2F%2Fqimg.xiaohongshu.com%2Fa0881772f129087acbd7069f89593faed9c4a7c9%3FitemId%3D5d96f17e81d4c151c2f1cc10%26imageView2%2F1%2Fw%2F320%2Fh%2F320%2Fq%2F90.jpg&feature=%E6%97%A0%E7%BA%BF%E5%90%B8%E5%B0%98%E9%95%BF%E7%BB%AD%E8%88%AA&has_color_variant=false&prefetch-image=https%3A%2F%2Fqimg.xiaohongshu.com%2Fa0881772f129087acbd7069f89593faed9c4a7c9%3FitemId%3D5d96f17e81d4c151c2f1cc10%26imageView2%2F2%2Fw%2F800%2Fq%2F90.jpg&name=%E5%AE%B6%E7%94%A8%E5%B0%8F%E5%9E%8B%E5%A4%A7%E5%90%B8%E5%8A%9B%E8%B6%85%E9%9D%99%E9%9F%B3%E5%BC%BA%E5%8A%9B%E9%99%A4%E8%9E%A8%E5%90%B8%E7%8C%AB%E7%8B%97%E6%AF%9B%E6%89%8B%E6%8C%81%E6%97%A0%E7%BA%BF%E5%90%B8%E5%B0%98%E5%99%A8++%E5%A4%9A%E5%88%B7%E5%A4%B4&seller_type=0&first_width=800&origin_price=799.0&naviHidden=yes",
+        "promotion_text": "限时购",
+        "promotion_type": 11,
+        "vendor_icon": "http://qimg.xiaohongshu.com/seller/402b622c57626926dfaa48407c600db7",
+        "vendor_name": "小熊旗舰店",
+        "vendor_link": "https://www.xiaohongshu.com/vendor/580f19028e307f5aeb085298",
+        "buyable": true,
+        "new_arriving": false,
+        "feature": "无线吸尘长续航",
+        "time": 1570173831,
+        "tax_included": true,
+        "item_price": [
+          {
+            "type": "sale_price",
+            "price": 299.0,
+            "index": 1
+          },
+          {
+            "type": "origin_price",
+            "price": 799.0,
+            "index": 3
+          }
+        ],
+        "tags": [
+          {
+            "type": 1,
+            "name": "限时购",
+            "index": 1
+          },
+          {
+            "type": 1,
+            "name": "包邮包税",
+            "index": 2
+          }
+        ],
+        "height": 320,
+        "width": 320,
+        "stock_shortage": "",
+        "spv_id": "5d96f17e81d4c151c2f1cc0b",
+        "spu_id": "5d96f17ce1a8132281725d2b",
+        "spl_id": "5d96f17e81d4c151c2f1cc0a",
+        "category_ids": [
+          "55b6740de7798944b4792498",
+          "5a310df83f7d1712823b9d62",
+          "5a310df93f7d1712823b9d7b"
+        ],
+        "variants": [
+          {
+            "id": "5a60c42f69bd891ed8939a46",
+            "name": "套装明细",
+            "value": "多刷头"
+          }
+        ],
+        "on_shelf_time": 1570202631000,
+        "has_video": false,
+        "focus": false,
+        "source": 1,
+        "h_image_info": {
+          "url": "https://qimg.xiaohongshu.com/a0881772f129087acbd7069f89593faed9c4a7c9?itemId=5d96f17e81d4c151c2f1cc10&imageView2/1/w/320/h/320/q/90.jpg",
+          "width": 320,
+          "height": 320
+        },
+        "is_transfer_to_hk": false,
+        "fav_info": {
+          "show_fav": true,
+          "fav_count": 576
+        },
+        "brand": {
+          "name": "小熊",
+          "area": "中国",
+          "ename": "Bear"
+        },
+        "pd_name": "无线吸尘长续航  · 家用小型大吸力超静音强力除螨吸猫狗毛手持无线吸尘器  多刷头",
+        "original_image_width": 800,
+        "original_image_height": 800,
+        "spu_name": "家用小型大吸力超静音强力除螨吸猫狗毛手持无线吸尘器"
+      },
+      {
+        "id": "5e86e21381d4c17dd180320e",
+        "seller_id": "5e38f7d865aece0001fc5b67",
+        "seller_type": 103,
+        "image": "https://qimg.xiaohongshu.com/838e42db4b5c3e677956f760b9ca933efe2ae532?itemId=5e86e21381d4c17dd180320e&imageView2/1/w/320/h/320/q/90.jpg",
+        "transparent_image": "https://qimg.xiaohongshu.com/63278cb5e5535e351d0f71ddd5b8c80a99a1b153?itemId=5e86e21381d4c17dd180320e&imageView2/1/w/320/h/320/q/90.png",
+        "title": "中国·手推式扫地机吸尘",
+        "desc": "bowAI 手推式扫地机吸尘器 黑色",
+        "price": 1139.0,
+        "discount_price": 399.0,
+        "stock_status": 1,
+        "link": "xhsdiscover://webview/www.xiaohongshu.com/goods/5e86e21381d4c17dd180320e?isRN=true&rnName=lancer&rnPath=goods/5e86e21381d4c17dd180320e&xhs_g_s=0001&country=%E4%B8%AD%E5%9B%BD&is_self_managing=false&max_height=800&new_arriving=true&sale_price=399.0&has_video=false&self_pre_cs=true&first_height=800&item_trade_mode=2&max_width=800&listing_image=https%3A%2F%2Fqimg.xiaohongshu.com%2F838e42db4b5c3e677956f760b9ca933efe2ae532%3FitemId%3D5e86e21381d4c17dd180320e%26imageView2%2F1%2Fw%2F320%2Fh%2F320%2Fq%2F90.jpg&feature=%E6%89%8B%E6%8E%A8%E5%BC%8F%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%90%B8%E5%B0%98&has_color_variant=true&prefetch-image=https%3A%2F%2Fqimg.xiaohongshu.com%2F838e42db4b5c3e677956f760b9ca933efe2ae532%3FitemId%3D5e86e21381d4c17dd180320e%26imageView2%2F2%2Fw%2F800%2Fq%2F90.jpg&name=%E6%89%8B%E6%8E%A8%E5%BC%8F%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%90%B8%E5%B0%98%E5%99%A8++%E9%BB%91%E8%89%B2&seller_type=103&first_width=800&origin_price=1139.0&naviHidden=yes",
+        "promotion_text": "单品特价",
+        "promotion_type": 4,
+        "vendor_icon": "http://qimg.xiaohongshu.com/seller/620c483dce060e75da737f0f538ed4bf",
+        "vendor_name": "天麒电器旗舰店",
+        "vendor_link": "https://www.xiaohongshu.com/vendor/5e38f7d865aece0001fc5b67",
+        "buyable": true,
+        "new_arriving": true,
+        "feature": "手推式扫地机吸尘",
+        "time": 1585898402,
+        "tax_included": true,
+        "item_price": [
+          {
+            "type": "sale_price",
+            "price": 399.0,
+            "index": 1
+          },
+          {
+            "type": "origin_price",
+            "price": 1139.0,
+            "index": 3
+          }
+        ],
+        "tags": [
+          {
+            "type": 1,
+            "name": "60元券",
+            "index": 1
+          },
+          {
+            "type": 1,
+            "name": "包邮包税",
+            "index": 2
+          }
+        ],
+        "height": 320,
+        "width": 320,
+        "stock_shortage": "",
+        "spv_id": "5e86e21381d4c17dd1803209",
+        "spu_id": "5e86e1b2b2b954005b333fba",
+        "spl_id": "5e86e1b40cf9a11e447d5843",
+        "category_ids": [
+          "55b6740de7798944b4792498",
+          "5a310df83f7d1712823b9d62",
+          "5a310df93f7d1712823b9d7b"
+        ],
+        "variants": [
+          {
+            "id": "5a60c43169bd891ed8939f93",
+            "name": "颜色",
+            "value": "黑色"
+          }
+        ],
+        "on_shelf_time": 1585927202000,
+        "has_video": false,
+        "focus": false,
+        "source": 1,
+        "h_image_info": {
+          "url": "https://qimg.xiaohongshu.com/838e42db4b5c3e677956f760b9ca933efe2ae532?itemId=5e86e21381d4c17dd180320e&imageView2/1/w/320/h/320/q/90.jpg",
+          "width": 320,
+          "height": 320
+        },
+        "is_transfer_to_hk": false,
+        "fav_info": {
+          "show_fav": false,
+          "fav_count": 0
+        },
+        "brand": {
+          "name": "bowAI",
+          "area": "中国",
+          "ename": ""
+        },
+        "pd_name": "手推式扫地机吸尘  · 手推式扫地机吸尘器  黑色",
+        "original_image_width": 800,
+        "original_image_height": 800,
+        "spu_name": "手推式扫地机吸尘器"
+      },
+      {
+        "id": "599eaccf462839739e25f191",
+        "seller_id": "599d6bb475e4f065ed374167",
+        "seller_type": 101,
+        "image": "https://qimg.xiaohongshu.com/items/244f8a178b23eee4ee0f3d3da41586c6?itemId=599eaccf462839739e25f191&imageView2/1/w/320/h/320/q/90.jpg",
+        "transparent_image": "https://qimg.xiaohongshu.com/81f4384b-6163-4708-b4d2-7a8a39339620?itemId=599eaccf462839739e25f191&imageView2/1/w/320/h/320/q/90.png",
+        "title": "中国·推杆两用有效除螨",
+        "desc": "德尔玛DEERMA 家用手持地毯式推杆除螨吸尘器  黑耀金 DX115C",
+        "price": 498.0,
+        "discount_price": 95.0,
+        "stock_status": 1,
+        "link": "xhsdiscover://webview/www.xiaohongshu.com/goods/599eaccf462839739e25f191?isRN=true&rnName=lancer&rnPath=goods/599eaccf462839739e25f191&xhs_g_s=0001&country=%E4%B8%AD%E5%9B%BD&is_self_managing=false&max_height=1200&new_arriving=false&sale_price=95.0&has_video=true&self_pre_cs=true&first_height=1200&item_trade_mode=2&max_width=1200&listing_image=https%3A%2F%2Fqimg.xiaohongshu.com%2Fitems%2F244f8a178b23eee4ee0f3d3da41586c6%3FitemId%3D599eaccf462839739e25f191%26imageView2%2F1%2Fw%2F320%2Fh%2F320%2Fq%2F90.jpg&feature=%E6%8E%A8%E6%9D%86%E4%B8%A4%E7%94%A8%E6%9C%89%E6%95%88%E9%99%A4%E8%9E%A8&has_color_variant=true&prefetch-image=https%3A%2F%2Fqimg.xiaohongshu.com%2Fitems%2F244f8a178b23eee4ee0f3d3da41586c6%3FitemId%3D599eaccf462839739e25f191%26imageView2%2F2%2Fw%2F800%2Fq%2F90.jpg&name=%E5%AE%B6%E7%94%A8%E6%89%8B%E6%8C%81%E5%9C%B0%E6%AF%AF%E5%BC%8F%E6%8E%A8%E6%9D%86%E9%99%A4%E8%9E%A8%E5%90%B8%E5%B0%98%E5%99%A8+++%E9%BB%91%E8%80%80%E9%87%91+DX115C&seller_type=101&first_width=1200&origin_price=498.0&naviHidden=yes",
+        "promotion_text": "限时购",
+        "promotion_type": 11,
+        "vendor_icon": "http://qimg.xiaohongshu.com/seller/46404d1758f007e0357e5ef30b2fac5a",
+        "vendor_name": "DEERMA德尔玛官方旗舰店",
+        "vendor_link": "https://www.xiaohongshu.com/vendor/599d6bb475e4f065ed374167",
+        "buyable": true,
+        "new_arriving": false,
+        "feature": "推杆两用有效除螨",
+        "time": 1503967997,
+        "tax_included": true,
+        "item_price": [
+          {
+            "type": "sale_price",
+            "price": 95.0,
+            "index": 1
+          },
+          {
+            "type": "origin_price",
+            "price": 498.0,
+            "index": 3
+          }
+        ],
+        "tags": [
+          {
+            "type": 2,
+            "name": "官方旗舰店",
+            "index": 1
+          },
+          {
+            "type": 1,
+            "name": "限时购",
+            "index": 2
+          },
+          {
+            "type": 1,
+            "name": "包邮包税",
+            "index": 3
+          }
+        ],
+        "height": 320,
+        "width": 320,
+        "stock_shortage": "",
+        "spv_id": "5e52a8fda0914173eae30280",
+        "spu_id": "5e52a8fda0914173eae3027e",
+        "spl_id": "5e52a8fda0914173eae3027f",
+        "category_ids": [
+          "55b6740de7798944b4792498",
+          "5a310df83f7d1712823b9d62",
+          "5a310df93f7d1712823b9d7b"
+        ],
+        "variants": [
+          {
+            "id": "5a60c43169bd891ed8939f93",
+            "name": "颜色",
+            "value": "黑耀金 DX115C"
+          }
+        ],
+        "on_shelf_time": 1499854235000,
+        "has_video": false,
+        "focus": false,
+        "source": 1,
+        "h_image_info": {
+          "url": "https://qimg.xiaohongshu.com/items/244f8a178b23eee4ee0f3d3da41586c6?itemId=599eaccf462839739e25f191&imageView2/1/w/320/h/320/q/90.jpg",
+          "width": 320,
+          "height": 320
+        },
+        "is_transfer_to_hk": false,
+        "fav_info": {
+          "show_fav": false,
+          "fav_count": 1
+        },
+        "brand": {
+          "name": "DEERMA",
+          "area": "中国",
+          "ename": "德尔玛"
+        },
+        "pd_name": "推杆两用有效除螨  · 家用手持地毯式推杆除螨吸尘器   黑耀金 DX115C",
+        "original_image_width": 1200,
+        "original_image_height": 1200,
+        "spu_name": "家用手持地毯式推杆除螨吸尘器 "
+      },
+      {
+        "id": "5e7b025d0cf9a15fa31aa9cf",
+        "seller_id": "58a12bc7a8e2911357e47856",
+        "seller_type": 101,
+        "image": "https://qimg.xiaohongshu.com/d7ddfc8bec957f3e224ad55178692d103ef10b0e?itemId=5e7b025d0cf9a15fa31aa9cf&imageView2/1/w/320/h/320/q/90.jpg",
+        "title": "英国·轻巧易举洁净整屋",
+        "desc": "dyson戴森 V8 Fluffy Origin 手持无绳吸尘器家用除螨无线 轻巧 ",
+        "discount_price": 2990.0,
+        "stock_status": 1,
+        "link": "xhsdiscover://webview/www.xiaohongshu.com/goods/5e7b025d0cf9a15fa31aa9cf?isRN=true&rnName=lancer&rnPath=goods/5e7b025d0cf9a15fa31aa9cf&xhs_g_s=0001&country=%E8%8B%B1%E5%9B%BD&is_self_managing=false&max_height=800&new_arriving=true&sale_price=2990.0&has_video=true&self_pre_cs=true&first_height=800&item_trade_mode=2&max_width=800&listing_image=https%3A%2F%2Fqimg.xiaohongshu.com%2Fd7ddfc8bec957f3e224ad55178692d103ef10b0e%3FitemId%3D5e7b025d0cf9a15fa31aa9cf%26imageView2%2F1%2Fw%2F320%2Fh%2F320%2Fq%2F90.jpg&feature=%E8%BD%BB%E5%B7%A7%E6%98%93%E4%B8%BE%E6%B4%81%E5%87%80%E6%95%B4%E5%B1%8B&has_color_variant=false&prefetch-image=https%3A%2F%2Fqimg.xiaohongshu.com%2Fd7ddfc8bec957f3e224ad55178692d103ef10b0e%3FitemId%3D5e7b025d0cf9a15fa31aa9cf%26imageView2%2F2%2Fw%2F800%2Fq%2F90.jpg&name=V8+Fluffy+Origin+%E6%89%8B%E6%8C%81%E6%97%A0%E7%BB%B3%E5%90%B8%E5%B0%98%E5%99%A8%E5%AE%B6%E7%94%A8%E9%99%A4%E8%9E%A8%E6%97%A0%E7%BA%BF+%E8%BD%BB%E5%B7%A7++&seller_type=101&first_width=800&origin_price=null&naviHidden=yes",
+        "vendor_icon": "http://qimg.xiaohongshu.com/seller/6a2ea7419aa9bbbac6305b3cdd26873d",
+        "vendor_name": "Dyson戴森官方旗舰店",
+        "vendor_link": "https://www.xiaohongshu.com/vendor/58a12bc7a8e2911357e47856",
+        "buyable": true,
+        "new_arriving": true,
+        "feature": "轻巧易举洁净整屋",
+        "time": 1585120070,
+        "tax_included": true,
+        "item_price": [
+          {
+            "type": "sale_price",
+            "price": 2990.0,
+            "index": 1
+          }
+        ],
+        "tags": [
+          {
+            "type": 2,
+            "name": "官方旗舰店",
+            "index": 1
+          },
+          {
+            "type": 1,
+            "name": "包邮包税",
+            "index": 2
+          }
+        ],
+        "height": 320,
+        "width": 320,
+        "stock_shortage": "",
+        "spv_id": "5e7b025c0cf9a15fa31aa9ca",
+        "spu_id": "5e7b025adf4dbe003dde8af6",
+        "spl_id": "5e7b025c0cf9a15fa31aa9c9",
+        "category_ids": [
+          "55b6740de7798944b4792498",
+          "5a310df83f7d1712823b9d62",
+          "5a310df93f7d1712823b9d7b"
+        ],
+        "variants": [],
+        "on_shelf_time": 1585699495000,
+        "has_video": false,
+        "focus": false,
+        "source": 1,
+        "h_image_info": {
+          "url": "https://qimg.xiaohongshu.com/d7ddfc8bec957f3e224ad55178692d103ef10b0e?itemId=5e7b025d0cf9a15fa31aa9cf&imageView2/1/w/320/h/320/q/90.jpg",
+          "width": 320,
+          "height": 320
+        },
+        "is_transfer_to_hk": false,
+        "fav_info": {
+          "show_fav": false,
+          "fav_count": 0
+        },
+        "brand": {
+          "icon": "https://ci.xiaohongshu.com/848b337f-d5ab-4b22-9735-3f5b9ab3a396@r_640w_640h.jpg",
+          "name": "戴森",
+          "area": "英国",
+          "ename": "dyson"
+        },
+        "pd_name": "轻巧易举洁净整屋  · V8 Fluffy Origin 手持无绳吸尘器家用除螨无线 轻巧  ",
+        "original_image_width": 800,
+        "original_image_height": 800,
+        "spu_name": "V8 Fluffy Origin 手持无绳吸尘器家用除螨无线 轻巧"
+      },
+      {
+        "id": "5abe0bbec9d75913f5cf58cd",
+        "seller_id": "58a269e63283524c4bd0b5bc",
+        "seller_type": 0,
+        "image": "https://qimg.xiaohongshu.com/ae612722ee6ce6d893d77a65890665d98a5dab43?itemId=5abe0bbec9d75913f5cf58cd&imageView2/1/w/320/h/320/q/90.jpg",
+        "transparent_image": "https://qimg.xiaohongshu.com/12af61a0-a9b1-11e9-a7a4-8f36e629f751?itemId=5abe0bbec9d75913f5cf58cd&imageView2/1/w/320/h/320/q/90.jpg",
+        "title": "德国·无限自由一机多用",
+        "desc": "BOBBOT宝家丽  网红款无线多功能手持吸尘器BW573 ",
+        "price": 4899.0,
+        "discount_price": 899.0,
+        "stock_status": 1,
+        "link": "xhsdiscover://webview/www.xiaohongshu.com/goods/5abe0bbec9d75913f5cf58cd?isRN=true&rnName=lancer&rnPath=goods/5abe0bbec9d75913f5cf58cd&xhs_g_s=0001&country=%E5%BE%B7%E5%9B%BD&is_self_managing=false&max_height=800&new_arriving=false&sale_price=899.0&has_video=false&self_pre_cs=true&first_height=800&item_trade_mode=2&max_width=800&listing_image=https%3A%2F%2Fqimg.xiaohongshu.com%2Fae612722ee6ce6d893d77a65890665d98a5dab43%3FitemId%3D5abe0bbec9d75913f5cf58cd%26imageView2%2F1%2Fw%2F320%2Fh%2F320%2Fq%2F90.jpg&feature=%E6%97%A0%E9%99%90%E8%87%AA%E7%94%B1%E4%B8%80%E6%9C%BA%E5%A4%9A%E7%94%A8&has_color_variant=false&prefetch-image=https%3A%2F%2Fqimg.xiaohongshu.com%2Fae612722ee6ce6d893d77a65890665d98a5dab43%3FitemId%3D5abe0bbec9d75913f5cf58cd%26imageView2%2F2%2Fw%2F800%2Fq%2F90.jpg&name=+%E7%BD%91%E7%BA%A2%E6%AC%BE%E6%97%A0%E7%BA%BF%E5%A4%9A%E5%8A%9F%E8%83%BD%E6%89%8B%E6%8C%81%E5%90%B8%E5%B0%98%E5%99%A8BW573++&seller_type=0&first_width=800&origin_price=4899.0&naviHidden=yes",
+        "vendor_icon": "http://qimg.xiaohongshu.com/seller/0cdfc33ed1263e5a856a78d85e3b9036",
+        "vendor_name": "宝家丽旗舰店",
+        "vendor_link": "https://www.xiaohongshu.com/vendor/58a269e63283524c4bd0b5bc",
+        "buyable": true,
+        "new_arriving": false,
+        "feature": "无限自由一机多用",
+        "time": 1522405124,
+        "tax_included": true,
+        "item_price": [
+          {
+            "type": "sale_price",
+            "price": 899.0,
+            "index": 1
+          },
+          {
+            "type": "origin_price",
+            "price": 4899.0,
+            "index": 3
+          }
+        ],
+        "tags": [
+          {
+            "type": 1,
+            "name": "包邮包税",
+            "index": 1
+          }
+        ],
+        "height": 320,
+        "width": 320,
+        "stock_shortage": "",
+        "spv_id": "5abe0bbdc9d75913f0cf59a5",
+        "spu_id": "5abe09e3c9d75913cbd8cd55",
+        "spl_id": "5abe0bbcc9d75913f5cf58ca",
+        "category_ids": [
+          "55b6740de7798944b4792498",
+          "5a310df83f7d1712823b9d62",
+          "5a310df93f7d1712823b9d7b"
+        ],
+        "variants": [],
+        "on_shelf_time": 1522488771000,
+        "has_video": false,
+        "focus": false,
+        "source": 1,
+        "h_image_info": {
+          "url": "https://qimg.xiaohongshu.com/ae612722ee6ce6d893d77a65890665d98a5dab43?itemId=5abe0bbec9d75913f5cf58cd&imageView2/1/w/320/h/320/q/90.jpg",
+          "width": 320,
+          "height": 320
+        },
+        "is_transfer_to_hk": false,
+        "fav_info": {
+          "show_fav": true,
+          "fav_count": 412
+        },
+        "brand": {
+          "icon": "https://ci.xiaohongshu.com/6d2edd3f-1cd4-4bfa-82b8-a7662184fbfb@r_640w_640h.jpg",
+          "name": "宝家丽",
+          "area": "德国",
+          "ename": "BOBBOT"
+        },
+        "pd_name": "无限自由一机多用  ·  网红款无线多功能手持吸尘器BW573  ",
+        "original_image_width": 800,
+        "original_image_height": 800,
+        "spu_name": " 网红款无线多功能手持吸尘器BW573"
+      },
+      {
+        "id": "59b7fb30c9d75903dd70d5c7",
+        "seller_id": "599d6bb475e4f065ed374167",
+        "seller_type": 101,
+        "image": "https://qimg.xiaohongshu.com/890ccf71-59c7-4c54-8fd9-089c35928eb7?itemId=59b7fb30c9d75903dd70d5c7&imageView2/1/w/320/h/320/q/90.jpg",
+        "transparent_image": "https://qimg.xiaohongshu.com/e804bb37-0392-4948-82f0-2a41df77ff9b?itemId=59b7fb30c9d75903dd70d5c7&imageView2/1/w/320/h/320/q/90.png",
+        "title": "中国·持久吸力四重过滤",
+        "desc": "德尔玛DEERMA 大吸力多功能手持推杆吸尘器除螨仪 家居清洁好物 DX700 优雅白",
+        "price": 1998.0,
+        "discount_price": 159.0,
+        "stock_status": 1,
+        "link": "xhsdiscover://webview/www.xiaohongshu.com/goods/59b7fb30c9d75903dd70d5c7?isRN=true&rnName=lancer&rnPath=goods/59b7fb30c9d75903dd70d5c7&xhs_g_s=0001&country=%E4%B8%AD%E5%9B%BD&is_self_managing=false&max_height=800&new_arriving=false&sale_price=159.0&has_video=false&self_pre_cs=true&first_height=800&item_trade_mode=2&max_width=800&listing_image=https%3A%2F%2Fqimg.xiaohongshu.com%2F890ccf71-59c7-4c54-8fd9-089c35928eb7%3FitemId%3D59b7fb30c9d75903dd70d5c7%26imageView2%2F1%2Fw%2F320%2Fh%2F320%2Fq%2F90.jpg&feature=%E6%8C%81%E4%B9%85%E5%90%B8%E5%8A%9B%E5%9B%9B%E9%87%8D%E8%BF%87%E6%BB%A4&has_color_variant=true&prefetch-image=https%3A%2F%2Fqimg.xiaohongshu.com%2F890ccf71-59c7-4c54-8fd9-089c35928eb7%3FitemId%3D59b7fb30c9d75903dd70d5c7%26imageView2%2F2%2Fw%2F800%2Fq%2F90.jpg&name=%E5%A4%A7%E5%90%B8%E5%8A%9B%E5%A4%9A%E5%8A%9F%E8%83%BD%E6%89%8B%E6%8C%81%E6%8E%A8%E6%9D%86%E5%90%B8%E5%B0%98%E5%99%A8%E9%99%A4%E8%9E%A8%E4%BB%AA+%E5%AE%B6%E5%B1%85%E6%B8%85%E6%B4%81%E5%A5%BD%E7%89%A9++DX700+%E4%BC%98%E9%9B%85%E7%99%BD&seller_type=101&first_width=800&origin_price=1998.0&naviHidden=yes",
+        "promotion_text": "限时购",
+        "promotion_type": 11,
+        "vendor_icon": "http://qimg.xiaohongshu.com/seller/46404d1758f007e0357e5ef30b2fac5a",
+        "vendor_name": "DEERMA德尔玛官方旗舰店",
+        "vendor_link": "https://www.xiaohongshu.com/vendor/599d6bb475e4f065ed374167",
+        "buyable": true,
+        "new_arriving": false,
+        "feature": "持久吸力四重过滤",
+        "time": 1505230013,
+        "tax_included": true,
+        "item_price": [
+          {
+            "type": "sale_price",
+            "price": 159.0,
+            "index": 1
+          },
+          {
+            "type": "origin_price",
+            "price": 1998.0,
+            "index": 3
+          }
+        ],
+        "tags": [
+          {
+            "type": 2,
+            "name": "官方旗舰店",
+            "index": 1
+          },
+          {
+            "type": 1,
+            "name": "限时购",
+            "index": 2
+          },
+          {
+            "type": 1,
+            "name": "包邮包税",
+            "index": 3
+          }
+        ],
+        "height": 320,
+        "width": 320,
+        "stock_shortage": "",
+        "spv_id": "59b7fb2fc9d75903c570d550",
+        "spu_id": "59b7fab870e75262e8b2761a",
+        "spl_id": "59b7fb2fc9d75903c170d57d",
+        "category_ids": [
+          "55b6740de7798944b4792498",
+          "5a310df83f7d1712823b9d62",
+          "5a310df93f7d1712823b9d7b"
+        ],
+        "variants": [
+          {
+            "id": "5a60c43169bd891ed8939f93",
+            "name": "颜色",
+            "value": "DX700 优雅白"
+          }
+        ],
+        "on_shelf_time": 1505321251000,
+        "has_video": false,
+        "focus": false,
+        "source": 1,
+        "h_image_info": {
+          "url": "https://qimg.xiaohongshu.com/890ccf71-59c7-4c54-8fd9-089c35928eb7?itemId=59b7fb30c9d75903dd70d5c7&imageView2/1/w/320/h/320/q/90.jpg",
+          "width": 320,
+          "height": 320
+        },
+        "is_transfer_to_hk": false,
+        "fav_info": {
+          "show_fav": false,
+          "fav_count": 0
+        },
+        "brand": {
+          "name": "DEERMA",
+          "area": "中国",
+          "ename": "德尔玛"
+        },
+        "pd_name": "持久吸力四重过滤  · 大吸力多功能手持推杆吸尘器除螨仪 家居清洁好物  DX700 优雅白",
+        "original_image_width": 800,
+        "original_image_height": 800,
+        "spu_name": "大吸力多功能手持推杆吸尘器除螨仪 家居清洁好物"
+      },
+      {
+        "id": "5aa118e1462839168fdcfe17",
+        "seller_id": "58a12bc7a8e2911357e47856",
+        "seller_type": 101,
+        "image": "https://qimg.xiaohongshu.com/items/0e0d9c1d532b34ae318f0c03c4b92698?itemId=5aa118e1462839168fdcfe17&imageView2/1/w/320/h/320/q/90.jpeg",
+        "transparent_image": "https://qimg.xiaohongshu.com/ef4e2a50-931e-11e9-a83f-39ba519808fc?itemId=5aa118e1462839168fdcfe17&imageView2/1/w/320/h/320/q/90.png",
+        "title": "英国·戴森无绳科技升级",
+        "desc": "dyson戴森 V10 Absolute 手持无绳吸尘器除螨仪家用 ",
+        "discount_price": 4490.0,
+        "stock_status": 1,
+        "link": "xhsdiscover://webview/www.xiaohongshu.com/goods/5aa118e1462839168fdcfe17?isRN=true&rnName=lancer&rnPath=goods/5aa118e1462839168fdcfe17&xhs_g_s=0001&country=%E8%8B%B1%E5%9B%BD&is_self_managing=false&max_height=1200&new_arriving=false&sale_price=4490.0&has_video=true&self_pre_cs=true&first_height=1200&item_trade_mode=2&max_width=1200&listing_image=https%3A%2F%2Fqimg.xiaohongshu.com%2Fitems%2F0e0d9c1d532b34ae318f0c03c4b92698%3FitemId%3D5aa118e1462839168fdcfe17%26imageView2%2F1%2Fw%2F320%2Fh%2F320%2Fq%2F90.jpeg&feature=%E6%88%B4%E6%A3%AE%E6%97%A0%E7%BB%B3%E7%A7%91%E6%8A%80%E5%8D%87%E7%BA%A7&has_color_variant=false&prefetch-image=https%3A%2F%2Fqimg.xiaohongshu.com%2Fitems%2F0e0d9c1d532b34ae318f0c03c4b92698%3FitemId%3D5aa118e1462839168fdcfe17%26imageView2%2F2%2Fw%2F800%2Fq%2F90.jpeg&name=V10+Absolute+%E6%89%8B%E6%8C%81%E6%97%A0%E7%BB%B3%E5%90%B8%E5%B0%98%E5%99%A8%E9%99%A4%E8%9E%A8%E4%BB%AA%E5%AE%B6%E7%94%A8++&seller_type=101&first_width=1200&origin_price=null&naviHidden=yes",
+        "vendor_icon": "http://qimg.xiaohongshu.com/seller/6a2ea7419aa9bbbac6305b3cdd26873d",
+        "vendor_name": "Dyson戴森官方旗舰店",
+        "vendor_link": "https://www.xiaohongshu.com/vendor/58a12bc7a8e2911357e47856",
+        "buyable": true,
+        "new_arriving": false,
+        "feature": "戴森无绳科技升级",
+        "time": 1521221621,
+        "tax_included": true,
+        "item_price": [
+          {
+            "type": "sale_price",
+            "price": 4490.0,
+            "index": 1
+          }
+        ],
+        "tags": [
+          {
+            "type": 2,
+            "name": "官方旗舰店",
+            "index": 1
+          },
+          {
+            "type": 1,
+            "name": "包邮包税",
+            "index": 2
+          }
+        ],
+        "height": 320,
+        "width": 320,
+        "stock_shortage": "",
+        "spv_id": "5aa118e04628391693dcfe92",
+        "spu_id": "5aa118e0c9d759473139cec3",
+        "spl_id": "5aa118e04628391691dcfe16",
+        "category_ids": [
+          "55b6740de7798944b4792498",
+          "5a310df83f7d1712823b9d62",
+          "5a310df93f7d1712823b9d7b"
+        ],
+        "variants": [],
+        "on_shelf_time": 1521491371000,
+        "has_video": false,
+        "focus": false,
+        "source": 1,
+        "h_image_info": {
+          "url": "https://qimg.xiaohongshu.com/items/0e0d9c1d532b34ae318f0c03c4b92698?itemId=5aa118e1462839168fdcfe17&imageView2/1/w/320/h/320/q/90.jpeg",
+          "width": 320,
+          "height": 320
+        },
+        "is_transfer_to_hk": false,
+        "fav_info": {
+          "show_fav": true,
+          "fav_count": 9429
+        },
+        "brand": {
+          "icon": "https://ci.xiaohongshu.com/848b337f-d5ab-4b22-9735-3f5b9ab3a396@r_640w_640h.jpg",
+          "name": "戴森",
+          "area": "英国",
+          "ename": "dyson"
+        },
+        "pd_name": "戴森无绳科技升级  · V10 Absolute 手持无绳吸尘器除螨仪家用  ",
+        "original_image_width": 1200,
+        "original_image_height": 1200,
+        "spu_name": "V10 Absolute 手持无绳吸尘器除螨仪家用"
+      },
+      {
+        "id": "5e86e21281d4c17dd1803200",
+        "seller_id": "5e38f7d865aece0001fc5b67",
+        "seller_type": 103,
+        "image": "https://qimg.xiaohongshu.com/d1ae243f4354174aeac44ebaf751a80613e6312a?itemId=5e86e21281d4c17dd1803200&imageView2/1/w/320/h/320/q/90.jpg",
+        "transparent_image": "https://qimg.xiaohongshu.com/6c03cf5d5f303aad014257cf9f4754f65bf32ad0?itemId=5e86e21281d4c17dd1803200&imageView2/1/w/320/h/320/q/90.png",
+        "title": "中国·手推式扫地机吸尘",
+        "desc": "bowAI 手推式扫地机吸尘器 红色",
+        "price": 1139.0,
+        "discount_price": 399.0,
+        "stock_status": 1,
+        "link": "xhsdiscover://webview/www.xiaohongshu.com/goods/5e86e21281d4c17dd1803200?isRN=true&rnName=lancer&rnPath=goods/5e86e21281d4c17dd1803200&xhs_g_s=0001&country=%E4%B8%AD%E5%9B%BD&is_self_managing=false&max_height=800&new_arriving=true&sale_price=399.0&has_video=false&self_pre_cs=true&first_height=800&item_trade_mode=2&max_width=800&listing_image=https%3A%2F%2Fqimg.xiaohongshu.com%2Fd1ae243f4354174aeac44ebaf751a80613e6312a%3FitemId%3D5e86e21281d4c17dd1803200%26imageView2%2F1%2Fw%2F320%2Fh%2F320%2Fq%2F90.jpg&feature=%E6%89%8B%E6%8E%A8%E5%BC%8F%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%90%B8%E5%B0%98&has_color_variant=true&prefetch-image=https%3A%2F%2Fqimg.xiaohongshu.com%2Fd1ae243f4354174aeac44ebaf751a80613e6312a%3FitemId%3D5e86e21281d4c17dd1803200%26imageView2%2F2%2Fw%2F800%2Fq%2F90.jpg&name=%E6%89%8B%E6%8E%A8%E5%BC%8F%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%90%B8%E5%B0%98%E5%99%A8++%E7%BA%A2%E8%89%B2&seller_type=103&first_width=800&origin_price=1139.0&naviHidden=yes",
+        "promotion_text": "单品特价",
+        "promotion_type": 4,
+        "vendor_icon": "http://qimg.xiaohongshu.com/seller/620c483dce060e75da737f0f538ed4bf",
+        "vendor_name": "天麒电器旗舰店",
+        "vendor_link": "https://www.xiaohongshu.com/vendor/5e38f7d865aece0001fc5b67",
+        "buyable": true,
+        "new_arriving": true,
+        "feature": "手推式扫地机吸尘",
+        "time": 1585898434,
+        "tax_included": true,
+        "item_price": [
+          {
+            "type": "sale_price",
+            "price": 399.0,
+            "index": 1
+          },
+          {
+            "type": "origin_price",
+            "price": 1139.0,
+            "index": 3
+          }
+        ],
+        "tags": [
+          {
+            "type": 1,
+            "name": "60元券",
+            "index": 1
+          },
+          {
+            "type": 1,
+            "name": "包邮包税",
+            "index": 2
+          }
+        ],
+        "height": 320,
+        "width": 320,
+        "stock_shortage": "",
+        "spv_id": "5e86e21181d4c17dd18031fb",
+        "spu_id": "5e86e1b2b2b954005b333fba",
+        "spl_id": "5e86e1b30cf9a11e447d5841",
+        "category_ids": [
+          "55b6740de7798944b4792498",
+          "5a310df83f7d1712823b9d62",
+          "5a310df93f7d1712823b9d7b"
+        ],
+        "variants": [
+          {
+            "id": "5a60c43169bd891ed8939f93",
+            "name": "颜色",
+            "value": "红色"
+          }
+        ],
+        "on_shelf_time": 1585927234000,
+        "has_video": false,
+        "focus": false,
+        "source": 1,
+        "h_image_info": {
+          "url": "https://qimg.xiaohongshu.com/d1ae243f4354174aeac44ebaf751a80613e6312a?itemId=5e86e21281d4c17dd1803200&imageView2/1/w/320/h/320/q/90.jpg",
+          "width": 320,
+          "height": 320
+        },
+        "is_transfer_to_hk": false,
+        "fav_info": {
+          "show_fav": false,
+          "fav_count": 0
+        },
+        "brand": {
+          "name": "bowAI",
+          "area": "中国",
+          "ename": ""
+        },
+        "pd_name": "手推式扫地机吸尘  · 手推式扫地机吸尘器  红色",
+        "original_image_width": 800,
+        "original_image_height": 800,
+        "spu_name": "手推式扫地机吸尘器"
+      },
+      {
+        "id": "599e4cb1c9d7591f833a3792",
+        "seller_id": "599d6bb475e4f065ed374167",
+        "seller_type": 101,
+        "image": "https://qimg.xiaohongshu.com/items/4d040a6b66bb0b6b4983320ceca36035?itemId=599e4cb1c9d7591f833a3792&imageView2/1/w/320/h/320/q/90.jpg",
+        "transparent_image": "https://qimg.xiaohongshu.com/ca2a6ab7-c7f1-4a49-a482-3036ea916203?itemId=599e4cb1c9d7591f833a3792&imageView2/1/w/320/h/320/q/90.png",
+        "title": "中国·有效清洁远离尘污",
+        "desc": "德尔玛DEERMA 手持推杆二合一大吸力真空吸尘器 家居清洁好物 标配版 DX118C 湖水蓝",
+        "price": 300.0,
+        "discount_price": 109.0,
+        "stock_status": 1,
+        "link": "xhsdiscover://webview/www.xiaohongshu.com/goods/599e4cb1c9d7591f833a3792?isRN=true&rnName=lancer&rnPath=goods/599e4cb1c9d7591f833a3792&xhs_g_s=0001&country=%E4%B8%AD%E5%9B%BD&is_self_managing=false&max_height=1200&new_arriving=false&sale_price=109.0&has_video=false&self_pre_cs=true&first_height=1200&item_trade_mode=2&max_width=1200&listing_image=https%3A%2F%2Fqimg.xiaohongshu.com%2Fitems%2F4d040a6b66bb0b6b4983320ceca36035%3FitemId%3D599e4cb1c9d7591f833a3792%26imageView2%2F1%2Fw%2F320%2Fh%2F320%2Fq%2F90.jpg&feature=%E6%9C%89%E6%95%88%E6%B8%85%E6%B4%81%E8%BF%9C%E7%A6%BB%E5%B0%98%E6%B1%A1&has_color_variant=true&prefetch-image=https%3A%2F%2Fqimg.xiaohongshu.com%2Fitems%2F4d040a6b66bb0b6b4983320ceca36035%3FitemId%3D599e4cb1c9d7591f833a3792%26imageView2%2F2%2Fw%2F800%2Fq%2F90.jpg&name=%E6%89%8B%E6%8C%81%E6%8E%A8%E6%9D%86%E4%BA%8C%E5%90%88%E4%B8%80%E5%A4%A7%E5%90%B8%E5%8A%9B%E7%9C%9F%E7%A9%BA%E5%90%B8%E5%B0%98%E5%99%A8+%E5%AE%B6%E5%B1%85%E6%B8%85%E6%B4%81%E5%A5%BD%E7%89%A9++%E6%A0%87%E9%85%8D%E7%89%88+DX118C+%E6%B9%96%E6%B0%B4%E8%93%9D&seller_type=101&first_width=1200&origin_price=300.0&naviHidden=yes",
+        "promotion_text": "单品特价",
+        "promotion_type": 4,
+        "vendor_icon": "http://qimg.xiaohongshu.com/seller/46404d1758f007e0357e5ef30b2fac5a",
+        "vendor_name": "DEERMA德尔玛官方旗舰店",
+        "vendor_link": "https://www.xiaohongshu.com/vendor/599d6bb475e4f065ed374167",
+        "buyable": true,
+        "new_arriving": false,
+        "feature": "有效清洁远离尘污",
+        "time": 1503994037,
+        "tax_included": true,
+        "item_price": [
+          {
+            "type": "sale_price",
+            "price": 109.0,
+            "index": 1
+          },
+          {
+            "type": "origin_price",
+            "price": 300.0,
+            "index": 3
+          }
+        ],
+        "tags": [
+          {
+            "type": 2,
+            "name": "官方旗舰店",
+            "index": 1
+          },
+          {
+            "type": 1,
+            "name": "包邮包税",
+            "index": 2
+          }
+        ],
+        "height": 320,
+        "width": 320,
+        "stock_shortage": "",
+        "spv_id": "5e52aa9aa0914173e5e3323e",
+        "spu_id": "5925218b46283904bd937693",
+        "spl_id": "5e52aa9aa0914173e5e3323a",
+        "category_ids": [
+          "55b6740de7798944b4792498",
+          "5a310df83f7d1712823b9d62",
+          "5a310df93f7d1712823b9d7b"
+        ],
+        "variants": [
+          {
+            "id": "5a60c43169bd891ed8939f93",
+            "name": "颜色",
+            "value": "DX118C 湖水蓝"
+          },
+          {
+            "id": "5a60c42f69bd891ed8939a46",
+            "name": "套装明细",
+            "value": "标配版"
+          }
+        ],
+        "on_shelf_time": 1496327578000,
+        "has_video": false,
+        "focus": false,
+        "source": 1,
+        "h_image_info": {
+          "url": "https://qimg.xiaohongshu.com/items/4d040a6b66bb0b6b4983320ceca36035?itemId=599e4cb1c9d7591f833a3792&imageView2/1/w/320/h/320/q/90.jpg",
+          "width": 320,
+          "height": 320
+        },
+        "is_transfer_to_hk": false,
+        "fav_info": {
+          "show_fav": false,
+          "fav_count": 6
+        },
+        "brand": {
+          "name": "DEERMA",
+          "area": "中国",
+          "ename": "德尔玛"
+        },
+        "pd_name": "有效清洁远离尘污  · 手持推杆二合一大吸力真空吸尘器 家居清洁好物  标配版 DX118C 湖水蓝",
+        "original_image_width": 1200,
+        "original_image_height": 1200,
+        "spu_name": "手持推杆二合一大吸力真空吸尘器 家居清洁好物"
+      },
+      {
+        "id": "5d23006a8ba270202c5194f5",
+        "seller_id": "5c82094b77e308490993fa9b",
+        "seller_type": 0,
+        "image": "https://qimg.xiaohongshu.com/10059c869a6ab4139803869464f4c8ac762e02aa?itemId=5d23006a8ba270202c5194f5&imageView2/1/w/320/h/320/q/90.jpg",
+        "transparent_image": "https://qimg.xiaohongshu.com/76b98150-a15d-11e9-b562-238c1f5cc247-c5gc16?itemId=5d23006a8ba270202c5194f5&imageView2/1/w/320/h/320/q/90.png",
+        "title": "英国·臭氧净化无线手持",
+        "desc": "morphy richards摩飞 便捷吸尘器MR3936 臭氧杀菌消毒 乳白色",
+        "price": 899.0,
+        "discount_price": 328.0,
+        "stock_status": 1,
+        "link": "xhsdiscover://webview/www.xiaohongshu.com/goods/5d23006a8ba270202c5194f5?isRN=true&rnName=lancer&rnPath=goods/5d23006a8ba270202c5194f5&xhs_g_s=0001&country=%E8%8B%B1%E5%9B%BD&is_self_managing=false&max_height=800&new_arriving=false&sale_price=328.0&has_video=false&self_pre_cs=true&first_height=800&item_trade_mode=2&max_width=800&listing_image=https%3A%2F%2Fqimg.xiaohongshu.com%2F10059c869a6ab4139803869464f4c8ac762e02aa%3FitemId%3D5d23006a8ba270202c5194f5%26imageView2%2F1%2Fw%2F320%2Fh%2F320%2Fq%2F90.jpg&feature=%E8%87%AD%E6%B0%A7%E5%87%80%E5%8C%96%E6%97%A0%E7%BA%BF%E6%89%8B%E6%8C%81&has_color_variant=true&prefetch-image=https%3A%2F%2Fqimg.xiaohongshu.com%2F10059c869a6ab4139803869464f4c8ac762e02aa%3FitemId%3D5d23006a8ba270202c5194f5%26imageView2%2F2%2Fw%2F800%2Fq%2F90.jpg&name=%E4%BE%BF%E6%8D%B7%E5%90%B8%E5%B0%98%E5%99%A8MR3936+%E8%87%AD%E6%B0%A7%E6%9D%80%E8%8F%8C%E6%B6%88%E6%AF%92++%E4%B9%B3%E7%99%BD%E8%89%B2&seller_type=0&first_width=800&origin_price=899.0&naviHidden=yes",
+        "vendor_icon": "http://qimg.xiaohongshu.com/seller/f35dd4a24286f3986ad25b5656464811",
+        "vendor_name": "摩飞电器旗舰店",
+        "vendor_link": "https://www.xiaohongshu.com/vendor/5c82094b77e308490993fa9b",
+        "buyable": true,
+        "new_arriving": false,
+        "feature": "臭氧净化无线手持",
+        "time": 1562575296,
+        "tax_included": true,
+        "item_price": [
+          {
+            "type": "sale_price",
+            "price": 328.0,
+            "index": 1
+          },
+          {
+            "type": "origin_price",
+            "price": 899.0,
+            "index": 3
+          }
+        ],
+        "tags": [
+          {
+            "type": 1,
+            "name": "包邮包税",
+            "index": 1
+          }
+        ],
+        "height": 320,
+        "width": 320,
+        "stock_shortage": "",
+        "spv_id": "5e52a986a091417431e312d8",
+        "spu_id": "5e52a986a091417431e312d4",
+        "spl_id": "5e52a986a091417431e312d6",
+        "category_ids": [
+          "55b6740de7798944b4792498",
+          "5a310df83f7d1712823b9d62",
+          "5a310df93f7d1712823b9d7b"
+        ],
+        "variants": [
+          {
+            "id": "5a60c43169bd891ed8939f93",
+            "name": "颜色",
+            "value": "乳白色"
+          }
+        ],
+        "on_shelf_time": 1562344439000,
+        "has_video": false,
+        "focus": false,
+        "source": 1,
+        "h_image_info": {
+          "url": "https://qimg.xiaohongshu.com/10059c869a6ab4139803869464f4c8ac762e02aa?itemId=5d23006a8ba270202c5194f5&imageView2/1/w/320/h/320/q/90.jpg",
+          "width": 320,
+          "height": 320
+        },
+        "is_transfer_to_hk": false,
+        "fav_info": {
+          "show_fav": true,
+          "fav_count": 613
+        },
+        "brand": {
+          "icon": "https://ci.xiaohongshu.com/848b337f-d5ab-4b22-9735-3f5b9ab3a396@r_640w_640h.jpg",
+          "name": "摩飞",
+          "area": "英国",
+          "ename": "morphy richards"
+        },
+        "pd_name": "臭氧净化无线手持  · 便捷吸尘器MR3936 臭氧杀菌消毒  乳白色",
+        "original_image_width": 800,
+        "original_image_height": 800,
+        "spu_name": "便捷吸尘器MR3936 臭氧杀菌消毒"
+      },
+      {
+        "id": "5d2e96fd5305655d277b55cb",
+        "seller_id": "5ae94f0269d2c04ad0d97177",
+        "seller_type": 3,
+        "image": "https://qimg.xiaohongshu.com/3284b070-a844-11e9-a22b-39e1c5c75b71/4.jpg?itemId=5d2e96fd5305655d277b55cb&imageView2/1/w/320/h/320/q/90.jpg",
+        "transparent_image": "https://qimg.xiaohongshu.com/316292c0-a9b1-11e9-a7a4-8f36e629f751?itemId=5d2e96fd5305655d277b55cb&imageView2/1/w/320/h/320/q/90.jpg",
+        "title": "英国·网红同款吸尘器",
+        "desc": "morphy richards摩飞 便捷吸尘器车载臭氧杀菌除味充电居家汽车必备送朋友礼物MR3936  铁灰色",
+        "price": 899.0,
+        "discount_price": 298.0,
+        "stock_status": 1,
+        "link": "xhsdiscover://webview/www.xiaohongshu.com/goods/5d2e96fd5305655d277b55cb?isRN=true&rnName=lancer&rnPath=goods/5d2e96fd5305655d277b55cb&xhs_g_s=0001&country=%E8%8B%B1%E5%9B%BD&is_self_managing=false&max_height=800&new_arriving=false&sale_price=298.0&has_video=false&self_pre_cs=true&first_height=800&item_trade_mode=2&max_width=800&listing_image=https%3A%2F%2Fqimg.xiaohongshu.com%2F3284b070-a844-11e9-a22b-39e1c5c75b71%2F4.jpg%3FitemId%3D5d2e96fd5305655d277b55cb%26imageView2%2F1%2Fw%2F320%2Fh%2F320%2Fq%2F90.jpg&feature=%E7%BD%91%E7%BA%A2%E5%90%8C%E6%AC%BE%E5%90%B8%E5%B0%98%E5%99%A8&has_color_variant=true&prefetch-image=https%3A%2F%2Fqimg.xiaohongshu.com%2F3284b070-a844-11e9-a22b-39e1c5c75b71%2F4.jpg%3FitemId%3D5d2e96fd5305655d277b55cb%26imageView2%2F2%2Fw%2F800%2Fq%2F90.jpg&name=%E4%BE%BF%E6%8D%B7%E5%90%B8%E5%B0%98%E5%99%A8%E8%BD%A6%E8%BD%BD%E8%87%AD%E6%B0%A7%E6%9D%80%E8%8F%8C%E9%99%A4%E5%91%B3%E5%85%85%E7%94%B5%E5%B1%85%E5%AE%B6%E6%B1%BD%E8%BD%A6%E5%BF%85%E5%A4%87%E9%80%81%E6%9C%8B%E5%8F%8B%E7%A4%BC%E7%89%A9MR3936+++%E9%93%81%E7%81%B0%E8%89%B2&seller_type=3&first_width=800&origin_price=899.0&naviHidden=yes",
+        "promotion_text": "单品特价",
+        "promotion_type": 4,
+        "vendor_icon": "http://qimg.xiaohongshu.com/seller/075076eb48ae2c0ecf76e27d07895c4e",
+        "vendor_name": "LOHAS品牌集合店",
+        "vendor_link": "https://www.xiaohongshu.com/vendor/5ae94f0269d2c04ad0d97177",
+        "buyable": true,
+        "new_arriving": false,
+        "feature": "网红同款吸尘器",
+        "time": 1563335600,
+        "tax_included": true,
+        "item_price": [
+          {
+            "type": "sale_price",
+            "price": 298.0,
+            "index": 1
+          },
+          {
+            "type": "origin_price",
+            "price": 899.0,
+            "index": 3
+          }
+        ],
+        "tags": [
+          {
+            "type": 1,
+            "name": "30元券",
+            "index": 1
+          },
+          {
+            "type": 1,
+            "name": "无门槛减30",
+            "index": 2
+          },
+          {
+            "type": 1,
+            "name": "包邮包税",
+            "index": 3
+          }
+        ],
+        "height": 320,
+        "width": 320,
+        "stock_shortage": "",
+        "spv_id": "5d2e96fd5305655d277b55c6",
+        "spu_id": "5d2e96eb3b3ee80032ccc515",
+        "spl_id": "5d2e96ed81d4c14e478532c8",
+        "category_ids": [
+          "55b6740de7798944b4792498",
+          "5a310df83f7d1712823b9d62",
+          "5a310df93f7d1712823b9d7b"
+        ],
+        "variants": [
+          {
+            "id": "5a60c43169bd891ed8939f93",
+            "name": "颜色",
+            "value": "铁灰色"
+          }
+        ],
+        "on_shelf_time": 1563364801000,
+        "has_video": false,
+        "focus": false,
+        "source": 1,
+        "h_image_info": {
+          "url": "https://qimg.xiaohongshu.com/3284b070-a844-11e9-a22b-39e1c5c75b71/4.jpg?itemId=5d2e96fd5305655d277b55cb&imageView2/1/w/320/h/320/q/90.jpg",
+          "width": 320,
+          "height": 320
+        },
+        "fav_info": {
+          "show_fav": false,
+          "fav_count": 0
+        },
+        "brand": {
+          "icon": "https://ci.xiaohongshu.com/848b337f-d5ab-4b22-9735-3f5b9ab3a396@r_640w_640h.jpg",
+          "name": "摩飞",
+          "area": "英国",
+          "ename": "morphy richards"
+        },
+        "pd_name": "网红同款吸尘器  · 便捷吸尘器车载臭氧杀菌除味充电居家汽车必备送朋友礼物MR3936   铁灰色",
+        "original_image_width": 800,
+        "original_image_height": 800,
+        "spu_name": "便捷吸尘器车载臭氧杀菌除味充电居家汽车必备送朋友礼物MR3936 "
+      }
+    ],
+    "recommended_info": {
+      "desc": "",
+      "word": "",
+      "queries": [],
+      "sub_desc": ""
+    },
+    "recommended_items": [],
+    "search_id": "",
+    "sellers": [],
+    "show_mode": 0,
+    "total_count": 271
+  },
+  "error_code": 0
+}

@@ -1,0 +1,4 @@
+crochet
+scrapy
+schedule
+scrapy-splash
