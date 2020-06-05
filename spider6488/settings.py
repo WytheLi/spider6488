@@ -113,28 +113,28 @@ DUPEFILTER_CLASS = 'scrapy_splash.SplashAwareDupeFilter'
 HTTPCACHE_STORAGE = 'scrapy_splash.SplashAwareFSCacheStorage'
 
 # mysql
-MYSQL_POOL_CONFIG = {   # test for use db
-    'host': '192.168.10.15',
-    'port': 3306,
-    'user': 'root',
-    'password': 'root',
-    'database': 'test',
-    # 'cursorclass': pymysql.cursors.DictCursor,   # 默认 pymysql.cursors.Cursor
-    'autocommit': 'True',       # default False
-    'connect_timeout': 30,      # default 10s
-}
-
-# MYSQL_POOL_CONFIG = {   # online for use db
-#     # 'host': '152.32.240.219',
-#     'host': '10.7.191.163',
-#     'port': 5001,
+# MYSQL_POOL_CONFIG = {   # test for use db
+#     'host': '192.168.10.15',
+#     'port': 3306,
 #     'user': 'root',
-#     'password': 'lsbb6488.',
-#     'database': '6488v3',
+#     'password': 'root',
+#     'database': 'test',
 #     # 'cursorclass': pymysql.cursors.DictCursor,   # 默认 pymysql.cursors.Cursor
 #     'autocommit': 'True',       # default False
 #     'connect_timeout': 30,      # default 10s
 # }
+
+MYSQL_POOL_CONFIG = {   # online for use db
+    # 'host': '152.32.240.219',
+    'host': '10.7.191.163',
+    'port': 5001,
+    'user': 'root',
+    'password': 'lsbb6488.',
+    'database': '6488v3',
+    # 'cursorclass': pymysql.cursors.DictCursor,   # 默认 pymysql.cursors.Cursor
+    'autocommit': 'True',       # default False
+    'connect_timeout': 30,      # default 10s
+}
 
 # MYSQL_POOL_CONFIG = {   # 个人电脑
 #     'host': '127.0.0.1',
@@ -147,6 +147,10 @@ MYSQL_POOL_CONFIG = {   # test for use db
 #     'connect_timeout': 30,      # default 10s
 # }
 
+# chromedriver
+CHROMEDRIVER_PATH = 'drive/chromedriver.exe'
 
+# selenium超时时间
+SELENIUM_TIMEOUT = 10
 
 

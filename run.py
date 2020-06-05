@@ -65,6 +65,10 @@ def start_spider():
     from spider6488.spiders import com1680380_happy_very
     reload(com1680380_happy_very)
     runner.crawl(com1680380_happy_very.Com1680380HappyVerySpider)
+
+    from spider6488.spiders import bj_pk10
+    reload(bj_pk10)
+    runner.crawl(bj_pk10.BjPk10Spider)
     d = runner.join()
 
 

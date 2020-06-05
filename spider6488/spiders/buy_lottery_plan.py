@@ -8,12 +8,12 @@ import scrapy
 from spider6488.common.constants import buy_plan_lot_code_map
 
 
-_today = datetime.datetime.today().strftime('%Y-%m-%d')
-
-
 class BuyLotteryPlanSpider(scrapy.Spider):
     name = 'buy_lottery_plan'
     allowed_domains = ['api.api861861.com']
+    _today = datetime.datetime.today().strftime('%Y-%m-%d')
+    # _today = '2020-05-14'
+    _yesterday = (datetime.datetime.today() - datetime.timedelta(days=1)).strftime('%Y-%m-%d')
     start_urls = [
         # 购彩计划
         # # SG飞艇
@@ -37,6 +37,7 @@ class BuyLotteryPlanSpider(scrapy.Spider):
         # 'https://api.api861861.com/LotteryPlan/getSscPlanList.do?lotCode=10064&rows=100&date=%s' % _today,
         # 新疆时时彩
         'https://api.api861861.com/LotteryPlan/getSscPlanList.do?lotCode=10004&rows=100&date=%s' % _today,
+        'https://api.api861861.com/LotteryPlan/getSscPlanList.do?lotCode=10004&rows=100&date=%s' % _yesterday,
         # # 极速时时彩
         # 'https://api.api861861.com/LotteryPlan/getSscPlanList.do?lotCode=10036&rows=100&date=%s' % _today,
         # # 澳洲幸运5
@@ -52,8 +53,9 @@ class BuyLotteryPlanSpider(scrapy.Spider):
         'https://api.api861861.com/LotteryPlan/getEfPlanList.do?lotCode=10016&rows=100&date=%s' % _today,
         # 安徽11选5
         'https://api.api861861.com/LotteryPlan/getEfPlanList.do?lotCode=10017&rows=100&date=%s' % _today,
-        # 上海11选5
+        # 上海11选5 开彩跨零点
         'https://api.api861861.com/LotteryPlan/getEfPlanList.do?lotCode=10018&rows=100&date=%s' % _today,
+        'https://api.api861861.com/LotteryPlan/getEfPlanList.do?lotCode=10018&rows=100&date=%s' % _yesterday,
         # 辽宁11选5
         'https://api.api861861.com/LotteryPlan/getEfPlanList.do?lotCode=10019&rows=100&date=%s' % _today,
         # 湖北11选5

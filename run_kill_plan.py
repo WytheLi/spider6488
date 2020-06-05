@@ -25,6 +25,10 @@ def start_spider():
     from spider6488.spiders import kill_no_plan
     reload(kill_no_plan)
     runner.crawl(kill_no_plan.KillNoPlanSpider)
+
+    from spider6488.spiders import kill_no_plan_k3
+    reload(kill_no_plan_k3)
+    runner.crawl(kill_no_plan_k3.KillNoPlanK3Spider)
     d = runner.join()
 
 

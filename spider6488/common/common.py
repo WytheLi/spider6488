@@ -382,6 +382,27 @@ def dragon_tiger_chongq(first_dt, second_dt, third_dt, fourth_dt):
     return res
 
 
+def dragon_tiger_pk10(first_dt, second_dt, third_dt, fourth_dt, fifth_dt):
+    """
+    龙虎数据 北京pk10
+    :param first_dt:
+    :param second_dt:
+    :param third_dt:
+    :param fourth_dt:
+    :param fifth_dt:
+    :return:
+    """
+    temp = []
+    temp.append('2') if first_dt else temp.append('1')
+    temp.append('2') if second_dt else temp.append('1')
+    temp.append('2') if third_dt else temp.append('1')
+    temp.append('2') if fourth_dt else temp.append('1')
+    temp.append('2') if fifth_dt else temp.append('1')
+    res = '-'.join(temp)
+    # print(res)
+    return res
+
+
 def big_small_chongq(lot_num, big_small_code):
     """
     大小 重庆幸运农场
@@ -533,7 +554,9 @@ def kill_right_or_wrong(num_enum):
     temp = []
     for i in range(0, len(num_enum), 2):
         temp.append(str(num_enum[i:i+2][0])+'-'+('1' if num_enum[i:i+2][1] == 1 else '2'))
-    return '-'.join(temp)
+    res = '-'.join(temp)
+    # print(res)
+    return res
 
 
 def dragon_tiger_ssc(dragon_tiger):
@@ -584,8 +607,102 @@ def is_guess(result):
         return '3'
 
 
+def init_trend_lot_full_no_bottom(sequence, tag_lottery_num):
+    """
+    号码走势 初始化底号
+    :param sequence: 第几球
+    :param tag_lottery_num: 当前球 球号 例如：05
+    :return:
+    """
+    init_value = [1] * 10
+    init_value[int(tag_lottery_num)-1] = int(tag_lottery_num)
+    res = '-'.join(map(lambda x: str(x), init_value))
+    return res
+
+
+def compute_trend_lot_full_no_bottom(sequence, tag_lottery_num, prev_bottom_no, prev_lot_full_no):
+    """
+    号码走势 计算底号
+    :param sequence: 第几球 1
+    :param tag_lottery_num: 当前球球号 05
+    :param prev_bottom_no: 前一期底号 1-18-5-2-22-1-3-10-7-29
+    :param prev_lot_full_no: 前一期开奖号
+    :return:
+    """
+    # ['01', '10', '05', '06', '07', '04', '09', '08', '02', '03']
+    prev_lot_full_no = prev_lot_full_no.split('-')
+
+    bottom_no = list(map(lambda x: int(x), prev_bottom_no.split('-')))
+    # 前一期的开奖号对应的索引位，重新从1计数
+    bottom_no[int(prev_lot_full_no[sequence-1]) - 1] = 1
+
+    for index, value in enumerate(bottom_no):
+        # 目标球号等于，索引位加一
+        if int(tag_lottery_num) == index + 1:
+            bottom_no[index] = int(tag_lottery_num)
+        else:
+            if int(prev_lot_full_no[sequence-1]) - 1 == index:
+                continue
+            bottom_no[index] += 1
+    res = '-'.join(map(lambda x: str(x), bottom_no))
+    return res
+
+
+def init_trend_gysum_bottom(lot_full_no):
+    """
+    冠亚和 初始化底号
+    :param lot_full_no: 开奖号码 ['01', '10', '05', '06', '07', '04', '09', '08', '02', '03']
+    :return:
+    """
+    init_value = [1] * 17
+    # 冠亚和 第一 第二球之和
+    sum_value = int(lot_full_no[0]) + int(lot_full_no[1])
+    for index, value in enumerate(init_value):
+        if sum_value-3 == index:
+            init_value[index] = sum_value
+    res = '-'.join(map(lambda x: str(x), init_value))
+    return res
+
+
+def compute_trend_gysum_bottom(lot_full_no, prev_bottom_no, prev_lot_full_no):
+    """
+    冠亚和 计算底号
+    :param lot_full_no: 开奖号码 ['01', '10', '05', '06', '07', '04', '09', '08', '02', '03']
+    :param prev_bottom_no: 上期底号 22-13-67-1-59-1-7-8-3-2-11-9-55-62-4-56-30
+    :param prev_lot_full_no: 上期开奖号
+    :return:
+    """
+    # ['01', '10', '05', '06', '07', '04', '09', '08', '02', '03']
+    prev_lot_full_no = prev_lot_full_no.split('-')
+
+    bottom_no = list(map(lambda x: int(x), prev_bottom_no.split('-')))
+    # 本期和值
+    sum_value = int(lot_full_no[0]) + int(lot_full_no[1])
+    # 上期和值
+    prev_sum_value = int(prev_lot_full_no[0]) + int(prev_lot_full_no[1])
+    # 上期和值位置 底号值，重置为1
+    bottom_no[prev_sum_value-3] = 1
+
+    for index, value in enumerate(bottom_no):
+        if sum_value-3 == index:
+            bottom_no[index] = sum_value
+        else:
+            if prev_sum_value-3 == index:
+                continue
+            bottom_no[index] += 1
+    res = '-'.join(map(lambda x: str(x), bottom_no))
+    return res
+
+
 if __name__ == '__main__':
-    pass
+    res = compute_trend_lot_full_no_bottom(1, '05', '1-18-5-2-22-1-3-10-7-29', ['01', '10', '05', '06', '07', '04', '09', '08', '02', '03'])
+    print(res)
+
+    print(init_trend_gysum_bottom(['01', '10', '05', '06', '07', '04', '09', '08', '02', '03']))
+
+    print(compute_trend_gysum_bottom(['01', '10', '05', '06', '07', '04', '09', '08', '02', '03'],
+                                     '22-13-67-1-59-1-7-8-3-2-11-9-55-62-4-56-30',
+                                     ['01', '10', '05', '06', '07', '04', '09', '08', '02', '03']))
 
 
 
