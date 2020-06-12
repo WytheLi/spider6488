@@ -13,7 +13,6 @@ class KillNoPlanK3Spider(scrapy.Spider):
     name = 'kill_no_plan_k3'
     allowed_domains = ['api.api861861.com']
     _today = datetime.datetime.today().strftime('%Y-%m-%d')
-    # _today = '2020-06-01'
     start_urls = [
         # 江苏快3
         'https://api.api861861.com/KillNum/getFtKillNumList.do?lotCode=10007&rows=30&date=%s' % _today,

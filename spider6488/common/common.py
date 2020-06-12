@@ -69,15 +69,19 @@ def sum_value_kl8(sum_num, sum_single_double, sum_big_small):
     :param sum_big_small: -1小1大
     :return:
     """
+    # print(sum_big_small)
+    # print(sum_single_double)
     if 1 == sum_big_small:
         sum_big_small = 'a'
     elif -1 == sum_big_small:
         sum_big_small = 'b'
+    else:
+        sum_big_small = 'e'
 
-    if 1 == sum_single_double:
-        sum_single_double = 'c'
-    elif -1 == sum_single_double:
+    if sum_single_double in [-1, 0]:  # -1小，0和（810）
         sum_single_double = 'd'
+    else:
+        sum_single_double = 'c'
     res = str(sum_num) + '-' + sum_big_small + '-' + sum_single_double
     return res
 
@@ -690,6 +694,163 @@ def compute_trend_gysum_bottom(lot_full_no, prev_bottom_no, prev_lot_full_no):
             if prev_sum_value-3 == index:
                 continue
             bottom_no[index] += 1
+    res = '-'.join(map(lambda x: str(x), bottom_no))
+    return res
+
+
+def init_trend_sum_parse_bottom_bjkl8(lot_full_no):
+    """
+    和值走势
+    :param lot_full_no: ['1', '2', '3']
+    :return:
+    """
+    values = ['1'] * 5
+    sum_value = sum(map(lambda x: int(x), lot_full_no))
+    # 数据区间01~80
+    # 810以上为大  810以下为小  810为和
+    if sum_value == 810:
+        values[4] = 'e'
+    if sum_value > 810:
+        values[0] = 'a'
+    if sum_value < 810:
+        values[1] = 'b'
+
+    if sum_value % 2 != 0:
+        values[2] = 'c'
+    if sum_value % 2 == 0:
+        values[3] = 'd'
+    res = '-'.join(values)
+    return res
+
+
+def compute_trend_sum_parse_bottom_bjkl8(lot_full_no, prev_bottom_no):
+    """
+
+    :param lot_full_no: 本期开奖数据 ['06', '09', '13', '14', '19', '21', '22', '27', '31', '33', '34', '37', '49', '63', '64', '66', '67', '69', '76', '80', '01']
+    :param prev_bottom_no: 上期底号 801-1-b-c-1-1
+    :return:
+    """
+    bottom_no = list(map(lambda x: 0 if x in ['a', 'b', 'c', 'd', 'e'] else int(x), prev_bottom_no.split('-')))
+    print(bottom_no)
+    sum_value = sum(map(lambda x: int(x), lot_full_no))
+
+    for index, value in enumerate(bottom_no):
+        bottom_no[index] += 1
+
+    # 数据区间01~80
+    # 810以上为大  810以下为小  810为和
+    if sum_value == 810:
+        bottom_no[4] = 'e'
+    if sum_value > 810:
+        bottom_no[0] = 'a'
+    if sum_value < 810:
+        bottom_no[1] = 'b'
+
+    if sum_value % 2 != 0:
+        bottom_no[2] = 'c'
+    if sum_value % 2 == 0:
+        bottom_no[3] = 'd'
+    res = '-'.join(map(lambda x: str(x), bottom_no))
+    return res
+
+
+def init_trend_position_bottom_c28(tag_lottery_num):
+    """
+    定位走势 初始化 底号
+    :param tag_lottery_num:
+    :return:
+    """
+    init_value = [1] * 14
+    init_value[int(tag_lottery_num)] = int(tag_lottery_num)
+    if int(tag_lottery_num) >= 5:
+        init_value[-4] = 'a'
+    else:
+        init_value[-3] = 'b'
+
+    if int(tag_lottery_num) % 2 != 0:
+        init_value[-2] = 'c'
+    else:
+        init_value[-1] = 'd'
+    res = '-'.join(map(lambda x: str(x), init_value))
+    return res
+
+
+def compute_trend_position_bottom_c28(sequence, tag_lottery_num, prev_bottom_no, prev_lot_full_no):
+    """
+    定位走势计算 加拿大28
+    :param sequence: 第几球 1
+    :param tag_lottery_num: 当前球球号 5
+    :param prev_bottom_no: 前一期底号 1-18-5-2-22-1-3-10-7-29-a-2-c-7
+    :param prev_lot_full_no: 前一期开奖号
+    :return:
+    """
+    # 3-3-4 --> ['3', '3', '4']
+    prev_lot_full_no = prev_lot_full_no.split('-')
+
+    bottom_no = list(map(lambda x: 0 if x in ['a', 'b', 'c', 'd'] else int(x), prev_bottom_no.split('-')))
+    # 前一期的开奖号对应的索引位，重新从1计数
+    bottom_no[int(prev_lot_full_no[sequence-1])] = 1
+    # # a、b、c、d位更改为0
+    # bottom_no[-1] = 0 if bottom_no[-1] == 'd' else None
+    # bottom_no[-2] = 0 if bottom_no[-2] == 'c' else None
+    # bottom_no[-3] = 0 if bottom_no[-3] == 'b' else None
+    # bottom_no[-4] = 0 if bottom_no[-4] == 'a' else None
+
+    for index, value in enumerate(bottom_no):
+        # 目标球号等于，索引位
+        if int(tag_lottery_num) == index:
+            bottom_no[index] = int(tag_lottery_num)
+        else:
+            if int(prev_lot_full_no[sequence-1]) == index:
+                continue
+            bottom_no[index] += 1
+
+    # 大小单双
+    if int(tag_lottery_num) >= 5:
+        bottom_no[-4] = 'a'
+    else:
+        bottom_no[-3] = 'b'
+
+    if int(tag_lottery_num) % 2 != 0:
+        bottom_no[-2] = 'c'
+    else:
+        bottom_no[-1] = 'd'
+    res = '-'.join(map(lambda x: str(x), bottom_no))
+    return res
+
+
+def init_trend_by_issue_bottom(lot_full_no):
+    """
+    初始化基本走势中的号码分布 广西快乐十分 1~21
+    :param lot_full_no:
+    :return:
+    """
+    values = [1] * 21
+    for lot_no in lot_full_no:
+        values[int(lot_no)-1] = int(lot_no)
+    res = '-'.join(map(lambda x: str(x), values))
+    return res
+
+
+def compute_trend_by_issue_bottom(lot_full_no, prev_bottom_no, prev_lot_full_no):
+    """
+
+    :param lot_full_no:
+    :param prev_bottom_no:
+    :param prev_lot_full_no:
+    :return:
+    """
+    lot_full_no = list(map(lambda x: int(x), lot_full_no))
+    prev_lot_full_no = list(map(lambda x: int(x), prev_lot_full_no.split('-')))
+    bottom_no = list(map(lambda x: int(x), prev_bottom_no.split('-')))
+    for index, value in enumerate(bottom_no):
+        if value in prev_lot_full_no and index + 1 == value:
+            bottom_no[index] = 0
+    for index, value in enumerate(bottom_no):
+        if index + 1 in lot_full_no:
+            bottom_no[index] = index + 1
+            continue
+        bottom_no[index] += 1
     res = '-'.join(map(lambda x: str(x), bottom_no))
     return res
 

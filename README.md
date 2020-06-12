@@ -110,3 +110,5 @@ def start_requests(self):
 - [Scrapy中间件详解](https://www.cnblogs.com/fengf233/p/11453375.html)
 - [python多线程执行类中的静态方法](https://www.cnblogs.com/dasheng-maritime/p/8365409.html)
 - [HTML5优质模版网站](http://html5up.net/)
+- [代理自动配置文件PAC](https://zhuanlan.zhihu.com/p/31287042)
+- [pac-functions](http://findproxyforurl.com/pac-functions/)

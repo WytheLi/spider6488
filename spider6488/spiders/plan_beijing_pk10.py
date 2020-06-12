@@ -9,7 +9,7 @@ import scrapy
 class PlanBeijingPk10Spider(scrapy.Spider):
     name = 'plan_beijing_pk10'
     allowed_domains = ['api.api861861.com']
-    # _date = '2020-01-21'
+    # _today = '2020-06-09'
     _today = datetime.datetime.today().strftime('%Y-%m-%d')
     start_urls = ['http://api.api861861.com/LotteryPlan/getBetInfoList.do?date=%s&lotCode=10001' % _today]
     custom_settings = {

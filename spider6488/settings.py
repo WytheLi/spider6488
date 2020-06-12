@@ -18,6 +18,7 @@ NEWSPIDER_MODULE = 'spider6488.spiders'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'
+# USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36'
 
 # Obey robots.txt rules
 # ROBOTSTXT_OBEY = True
@@ -58,6 +59,7 @@ SPIDER_MIDDLEWARES = {
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
    'spider6488.middlewares.Spider6488DownloaderMiddleware': 543,
+   # 'spider6488.middlewares.ProxyDownloaderMiddleware': 601,
 
     # Splash
     'scrapy_splash.SplashCookiesMiddleware': 723,
@@ -148,7 +150,7 @@ MYSQL_POOL_CONFIG = {   # online for use db
 # }
 
 # chromedriver
-CHROMEDRIVER_PATH = 'drive/chromedriver.exe'
+CHROMEDRIVER_PATH = 'drive/chromedriver.exe'    # win版本chrome驱动
 
 # selenium超时时间
 SELENIUM_TIMEOUT = 10

@@ -271,7 +271,6 @@ class Com1680380K3Spider(scrapy.Spider):
                     'draw_date': now_time,
                     'create_date': now_time,
                     'update_date': now_time
-
                 }
                 # print(item)
                 yield item
@@ -336,6 +335,7 @@ class Com1680380K3Spider(scrapy.Spider):
                     'lottery_num': i['preIssue'],
                     'lottery_full_no': '-'.join(map(lambda x: str(x), i['drawCode'])),
                     'lottery_char_type': 3,
+                    # 走势底号
                     'reserved_bit_one': ('{},{}'.format(i['sumTotal'], ','.join([str(sum) for sum in i['sumNum'][:-4]]).replace('-', ''))).replace(",","-"),
                     'reserved_bit_two': sum_value_form_k3(i['sumTotal'], i['sumNum'][-4:]),
                     'is_finish': 0,

@@ -13,7 +13,6 @@ class KillNoPlanSpider(scrapy.Spider):
     name = 'kill_no_plan'
     allowed_domains = ['api.api861861.com']
     _today = datetime.datetime.today().strftime('%Y-%m-%d')
-    # _today = '2020-06-01'
     _yesterday = (datetime.datetime.today() - datetime.timedelta(days=1)).strftime('%Y-%m-%d')
     start_urls = [
         # 杀号计划

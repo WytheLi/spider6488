@@ -19,15 +19,11 @@ class Com1680380HappyVerySpider(scrapy.Spider):
         # 开奖号码
         'https://api.api861861.com/klsf/getHistoryLotteryInfo.do?date=%s&lotCode=10005' % _today,
         # 基本走势
-        'https://api.api861861.com/klsf/queryDrawCodeTrend.do?periods=30&date=&lotCode=10005',
+        'https://api.api861861.com/klsf/queryDrawCodeTrend.do?periods=90&date=&lotCode=10005',
         # 单双走势
         'https://api.api861861.com/klsf/queryKslfDsTrend.do?periods=90&date=&lotCode=10005',
         # 大小走势
         'https://api.api861861.com/klsf/queryKslfDxTrend.do?periods=90&date=&lotCode=10005',
-
-        # 广西快乐十分
-        # 历史开奖号码
-        "https://api.api861861.com/gxklsf/getHistoryLotteryInfo.do?date=%s&lotCode=10038" % _today,
 
         # 天津快乐十分
         # 开奖号码
@@ -35,7 +31,7 @@ class Com1680380HappyVerySpider(scrapy.Spider):
         # 基本走势
         'https://api.api861861.com/klsf/queryDrawCodeTrend.do?periods=90&date=&lotCode=10034',
         # 单双走势
-        'https://api.api861861.com/klsf/queryKslfDsTrend.do?periods=30&date=&lotCode=10034',
+        'https://api.api861861.com/klsf/queryKslfDsTrend.do?periods=90&date=&lotCode=10034',
         # 大小走势
         'https://api.api861861.com/klsf/queryKslfDxTrend.do?periods=90&date=&lotCode=10034',
     ]
@@ -84,7 +80,7 @@ class Com1680380HappyVerySpider(scrapy.Spider):
                     # 龙虎 0龙1虎 --> 1龙2虎
                     'reserved_bit_two': '2' if i['firstDragonTiger'] else '1',
                     'lottery_countdown': 1,
-                    'draw_date': now_time,
+                    'draw_date': i['preDrawTime'],
                     'create_date': now_time,
                     'update_date': now_time
                 }
@@ -102,7 +98,7 @@ class Com1680380HappyVerySpider(scrapy.Spider):
                     # 龙虎 0龙1虎 --> 1龙2虎
                     'reserved_bit_two': dragon_tiger_chongq(i['firstDragonTiger'], i['secondDragonTiger'], i['thirdDragonTiger'], i['fourthDragonTiger']),
                     'lottery_countdown': 1,
-                    'draw_date': now_time,
+                    'draw_date': i['preDrawTime'],
                     'create_date': now_time,
                     'update_date': now_time
                 }
@@ -169,7 +165,7 @@ class Com1680380HappyVerySpider(scrapy.Spider):
                     'reserved_bit_eight': big_small_chongq(i['preDrawCode'][7], i['missing'][14:16]),
                     'reserved_bit_nine': trend_big_small_chongq(i['missing'][16:]),
                     'is_finish': 0,
-                    'draw_date': now_time,
+                    'draw_date': i['preDrawTime'],
                     'create_date': now_time,
                     'update_date': now_time
                 }
@@ -204,7 +200,7 @@ class Com1680380HappyVerySpider(scrapy.Spider):
                     'reserved_bit_eight': single_double_chongq(i['preDrawCode'][7], i['missing'][14:16]),
                     'reserved_bit_nine': trend_single_double_chongq(i['missing'][16:]),
                     'is_finish': 0,
-                    'draw_date': now_time,
+                    'draw_date': i['preDrawTime'],
                     'create_date': now_time,
                     'update_date': now_time
                 }

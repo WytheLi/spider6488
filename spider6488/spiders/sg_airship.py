@@ -8,12 +8,10 @@ from pprint import pprint
 import scrapy
 
 
-_today = datetime.datetime.today().strftime('%Y-%m-%d')
-
-
 class SgAirshipSpider(scrapy.Spider):
     name = 'sg_airship'
     allowed_domains = ['api.api861861.com']
+    _today = datetime.datetime.today().strftime('%Y-%m-%d')
     start_urls = ['http://api.api861861.com/LotteryPlan/getBetInfoList.do?date=%s&lotCode=10058' % _today]
     custom_settings = {
         'ITEM_PIPELINES': {'spider6488.pipelines.SgAirshipPipeline': 301}

@@ -12,7 +12,6 @@ class BuyLotteryPlanSpider(scrapy.Spider):
     name = 'buy_lottery_plan'
     allowed_domains = ['api.api861861.com']
     _today = datetime.datetime.today().strftime('%Y-%m-%d')
-    # _today = '2020-05-14'
     _yesterday = (datetime.datetime.today() - datetime.timedelta(days=1)).strftime('%Y-%m-%d')
     start_urls = [
         # 购彩计划

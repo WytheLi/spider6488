@@ -595,27 +595,55 @@ class PcBallsLuck28Pipeline:        # 306
         """
         conn = pymysql.connect(**settings['MYSQL_POOL_CONFIG'])
         cursor = conn.cursor()
-        cursor.execute(
-            """select * from sc_lottery_info where lottery_num=%(lottery_num)s and lottery_code=%(lottery_code)s""",
-            {'lottery_num': item['lottery_num'], 'lottery_code': item['lottery_code']})
-        result = cursor.fetchone()
-        if not result:
+        if 'lottery_number' == item['parse_type']:
             try:
-                sql = """
-                    insert into sc_lottery_info(id, lottery_code, lottery_num, lottery_full_no, 
-                    lottery_sum_value, lottery_countdown,
-                    draw_date, create_date, update_date)
-                    values (%(id)s, %(lottery_code)s, %(lottery_num)s, %(lottery_full_no)s,
-                    %(lottery_sum_value)s, %(lottery_countdown)s,
-                    %(draw_date)s, %(create_date)s, %(update_date)s)
-                """
-                res = cursor.execute(sql, item)
-                # conn.commit()
+                cursor.execute(
+                    """select * from sc_lottery_info where lottery_num=%(lottery_num)s and lottery_code=%(lottery_code)s""",
+                    {'lottery_num': item['lottery_num'], 'lottery_code': item['lottery_code']})
+                result = cursor.fetchone()
+                if not result:
+                    sql = """
+                        insert into sc_lottery_info(id, lottery_code, lottery_num, lottery_full_no, 
+                        lottery_sum_value, lottery_countdown,
+                        draw_date, create_date, update_date)
+                        values (%(id)s, %(lottery_code)s, %(lottery_num)s, %(lottery_full_no)s,
+                        %(lottery_sum_value)s, %(lottery_countdown)s,
+                        %(draw_date)s, %(create_date)s, %(update_date)s)
+                    """
+                    res = cursor.execute(sql, item)
+                    # conn.commit()
             except Exception as e:
                 raise e
             else:
                 conn.commit()
                 # print({'res_code': res, 'item': item})
+            finally:
+                cursor.close()
+                conn.close()
+        elif 'trend_qrientation' == item['parse_type']:
+            try:
+                cursor.execute("""
+                    select * from sc_lottery_char 
+                    where lottery_num=%(lottery_num)s 
+                    and lottery_code=%(lottery_code)s 
+                    and lottery_char_type=%(lottery_char_type)s
+                """, {'lottery_num': item['lottery_num'], 'lottery_code': item['lottery_code'], 'lottery_char_type': item['lottery_char_type']})
+                result = cursor.fetchone()
+                if not result:
+                    sql = """
+                        insert into sc_lottery_char(id, lottery_code, lottery_num, lottery_full_no,
+                        lottery_char_type, reserved_bit_one, reserved_bit_two, reserved_bit_three,
+                        is_finish, draw_date, create_date, update_date)
+                        values (%(id)s, %(lottery_code)s, %(lottery_num)s, %(lottery_full_no)s,
+                        %(lottery_char_type)s, %(reserved_bit_one)s, %(reserved_bit_two)s, %(reserved_bit_three)s,
+                        %(is_finish)s, %(draw_date)s, %(create_date)s, %(update_date)s)
+                    """
+                    cursor.execute(sql, item)
+            except Exception as e:
+                raise e
+            else:
+                conn.commit()
+                # print(item)
             finally:
                 cursor.close()
                 conn.close()
@@ -801,30 +829,56 @@ class BeijingHappy8Pipeline:    # 310
     def process_item(self, item, spider):
         conn = pymysql.connect(**settings['MYSQL_POOL_CONFIG'])
         cursor = conn.cursor()
-        try:
-            cursor.execute(
-                """select * from sc_lottery_info where lottery_num=%(lottery_num)s and lottery_code=%(lottery_code)s""",
-                {'lottery_num': item['lottery_num'], 'lottery_code': item['lottery_code']})
-            result = cursor.fetchone()
-            if not result:
-                sql = """
-                        insert into sc_lottery_info(id, lottery_code, lottery_num, lottery_full_no, 
-                        lottery_sum_value, reserved_bit_one, lottery_countdown,
-                        draw_date, create_date, update_date)
-                        values (%(id)s, %(lottery_code)s, %(lottery_num)s, %(lottery_full_no)s,
-                        %(lottery_sum_value)s, %(reserved_bit_one)s, %(lottery_countdown)s,
-                        %(draw_date)s, %(create_date)s, %(update_date)s)
-                """
-                cursor.execute(sql, item)
+        if item['parse_type'] == 'lottery_number':
+            try:
+                cursor.execute(
+                    """select * from sc_lottery_info where lottery_num=%(lottery_num)s and lottery_code=%(lottery_code)s""",
+                    {'lottery_num': item['lottery_num'], 'lottery_code': item['lottery_code']})
+                result = cursor.fetchone()
+                if not result:
+                    sql = """
+                            insert into sc_lottery_info(id, lottery_code, lottery_num, lottery_full_no, 
+                            lottery_sum_value, reserved_bit_one, lottery_countdown, lottery_status,
+                            draw_date, create_date, update_date)
+                            values (%(id)s, %(lottery_code)s, %(lottery_num)s, %(lottery_full_no)s,
+                            %(lottery_sum_value)s, %(reserved_bit_one)s, %(lottery_countdown)s, %(lottery_status)s,
+                            %(draw_date)s, %(create_date)s, %(update_date)s)
+                    """
+                    cursor.execute(sql, item)
+                    conn.commit()
+            except Exception as e:
+                raise e
+            else:
                 conn.commit()
-        except Exception as e:
-            raise e
-        else:
-            conn.commit()
-            # print(item)
-        finally:
-            cursor.close()
-            conn.close()
+                # print(item)
+            finally:
+                cursor.close()
+                conn.close()
+        elif item['parse_type'] == 'trend_sum':
+            try:
+                cursor.execute("""
+                    select * from sc_lottery_char 
+                    where lottery_num=%(lottery_num)s 
+                    and lottery_code=%(lottery_code)s 
+                    and lottery_char_type=%(lottery_char_type)s
+                """, {'lottery_num': item['lottery_num'], 'lottery_code': item['lottery_code'], 'lottery_char_type': item['lottery_char_type']})
+                result = cursor.fetchone()
+                if not result:
+                    sql = """
+                        insert into sc_lottery_char(id, lottery_code, lottery_num, lottery_full_no, lottery_char_type,
+                        reserved_bit_one, reserved_bit_two, is_finish, draw_date, create_date, update_date)
+                        values (%(id)s, %(lottery_code)s, %(lottery_num)s, %(lottery_full_no)s, %(lottery_char_type)s,
+                        %(reserved_bit_one)s, %(reserved_bit_two)s, %(is_finish)s, %(draw_date)s, %(create_date)s, %(update_date)s)
+                    """
+                    cursor.execute(sql, item)
+            except Exception as e:
+                raise e
+            else:
+                conn.commit()
+                # print(item)
+            finally:
+                cursor.close()
+                conn.close()
 
 
 class ChongqLuckFarmPipeline:   # 311
